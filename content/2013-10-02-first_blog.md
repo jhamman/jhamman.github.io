@@ -1,7 +1,7 @@
 Title: A Start to Blogging
 date: 2013-10-02 00:00
 comments: true
-slug: test-blog
+slug: a-start-to-blogging
 
 While I'm not really much of a blogger, I often find myself combing through old programs looking for a trick I discovered months ago.  I’m hoping this blog will serve as a log of cool things I come across as I’m working (see below for a short description of what I do).  For the most part, I’ll be focusing my effort on computing topics as they pertain to the science of hydrology.
 
