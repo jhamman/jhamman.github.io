@@ -142,6 +142,8 @@ hr.small {
 .intro-header .page-heading {
   padding: 100px 0 50px;
   color: white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
