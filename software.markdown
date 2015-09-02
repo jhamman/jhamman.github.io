@@ -2,12 +2,12 @@
 layout: page
 title: "Software"
 description: ""
-header-img: "img/contact-bg.jpg"
+header-img: "img/GNAM_2197.jpg"
 ---
 
 #### VIC
 
-For the majority of my Ph.D., I have been one of the main developers of the [Variable Infiltration Capacity](http://vic.readthedocs.org) model. During this time, I have acted as the VIC model administrator, responsible for the [VIC github](https://github.com/UW-Hydro/VIC) repository, making releases, and issuing bug fixes.
+For the majority of my Ph.D., I have been one of the main developers of the [Variable Infiltration Capacity](http://vic.readthedocs.org) macro-scale land surface hydrology model. During this time, I have acted as the VIC model administrator, responsible for the [VIC github](https://github.com/UW-Hydro/VIC) repository, making releases, and issuing bug fixes.
 
 #### RVIC
 

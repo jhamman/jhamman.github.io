@@ -2,7 +2,7 @@
 layout: page
 title: "CV"
 description: "Curriculum Vitae"
-header-img: "img/about-bg.jpg"
+header-img: "img/GNAM_1308.jpg"
 ---
 
 ### RESEARCH INTERESTS:
