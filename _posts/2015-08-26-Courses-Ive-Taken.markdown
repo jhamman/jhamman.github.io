@@ -23,12 +23,12 @@ I've been asked by a number of people recently which courses I took in graduate 
 | CEE 599   | Precipitation                                | Lettenmaier    | 3       | Sp11    |
 | AMATH 582 | Computational Methods for Data Analysis      | Kutz           | 5       | W11     |
 | CEE 474   | Sediment Transport                           | Horner-Devine  | 3       | W11     |
-| CEE 574   | Advanced Hydrology                           | Istanbulluoglu | 3       | W12     |
-| FISH 529  | Water Center Seminar                         | -              | 1       | W13     |
+| CEE 574   | Advanced Hydrology                           | Istanbulluoglu | 3       | W11     |
+| FISH 529  | Water Center Seminar                         | -              | 1       | W11     |
 | ATM S 501 | Atmospheric Physics & Chemistry              | Wallace        | 5       | F10     |
-| CEE 424   | GIS For Civil Engineers                      | Kamal          | 3       | F11     |
-| CEE 476   | Physical Hydrology                           | Istanbulluoglu | 3       | F12     |
-| CEE 500   | CEE Seminars                                 | -              | 1       | F13     |
-| CEE 578   | Water Systems Management & Operations        | Lundquist      | 3       | F14     |
+| CEE 424   | GIS For Civil Engineers                      | Kamal          | 3       | F10     |
+| CEE 476   | Physical Hydrology                           | Istanbulluoglu | 3       | F10     |
+| CEE 500   | CEE Seminars                                 | -              | 1       | F10     |
+| CEE 578   | Water Systems Management & Operations        | Lundquist      | 3       | F10     |
 
 Full descriptions of each of these courses are available via the University of Washington [Course Catalog](http://www.washington.edu/students/crscat/).
