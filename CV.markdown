@@ -49,7 +49,7 @@ Climate Modeling, Land-Atmosphere Interactions, Climate Variability, Climate Cha
 |---------------+-----------------------------------------------------------------------------------------------|
 | Dates       	| Position                                                                                     	|
 |---------------|:----------------------------------------------------------------------------------------------|
-| 2012-2014 	| Teaching Assistant, Environmental and Water Resource Seminar.                              	|
+| 2012-2014 	  | Teaching Assistant, Environmental and Water Resource Seminar.                              	  |
 |---------------+-----------------------------------------------------------------------------------------------|
 | Spring 2013 	| Adjunct Professor:  CEEGR 371 Water Resource Engineering I – undergraduate course at Seattle University.  (Teaching evaluations available by request). |
 |===============+===============================================================================================|
@@ -57,7 +57,7 @@ Climate Modeling, Land-Atmosphere Interactions, Climate Variability, Climate Cha
 ### HONORS & AWARDS:
 
 |---------------+-----------------------------------------------------------------------------------------------|
-| Date       	| Position                                                                                     	|
+| Date        	| Position                                                                                     	|
 |---------------|:----------------------------------------------------------------------------------------------|
 | Spring 2012 	| Univ. of Washington Water Symposium Best Student Presentation Award.                         	|
 |---------------+-----------------------------------------------------------------------------------------------|
@@ -66,9 +66,9 @@ Climate Modeling, Land-Atmosphere Interactions, Climate Variability, Climate Cha
 ### PROFESSIONAL LICENSES:
 
 |---------------+-----------------------------------------------------------------------------------------------|
-| Dates     	| Position                                                                                     	|
+| Dates       	| Position                                                                                     	|
 |---------------|:----------------------------------------------------------------------------------------------|
-| 2013-present 	| Licensed Professional Engineer in the State of Washington: 50453.                         	|
+| 2013-present 	| Licensed Professional Engineer in the State of Washington: 50453.                            	|
 |---------------+-----------------------------------------------------------------------------------------------|
 |===============+===============================================================================================|
 
@@ -81,8 +81,10 @@ Climate Modeling, Land-Atmosphere Interactions, Climate Variability, Climate Cha
 ### SELECT PUBLICATIONS:
 
 - Hamman, J.J., Nijssen, B., Roberts, A., Osinski, R., Lettenmaier D.P., Maslowski., W. (Manuscript in preparation - 2015). Land-Ocean Coupling in the Regional Arctic System Model.
-- Hamman, J.J., Nijssen, B.; Brunke, M.; Cassano, J.; Criag, A.P.; DuVivier, A.; Hughes, M.; Lettenmaier, D.P.; Maslowski, W.; Osinski, O.; Roberts, A.; Zeng, X. (Submitted). The Land Surface Climate in the Regional Arctic System Model.  Journal of Climate.
-- Hamman, J.J., Hamlet, A.F., Lee, Se-Yeun, Grossman, E.E., Fuller, R.  (2015). Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain. Northwest Science, in review.
+- Cassano, J., A. DuVivier, A. Roberts, M. Hughes, M. Seefeldt, M. Brunke, A. Craig, B. Fisel, W. Gutowski, J. Hamman, M. Higgins, W. Maslowski, Bart N., Robert O., X. Zeng, 2015: Near Surface Atmospheric Climate of the Regional Arctic System Model (RASM). Journal of Climate, *in review*.
+DuVivier, A.K., J. Cassano, A. Craig, J. Hamman, W. Maslowski, B. Nijssen, R. Osinski, and A. Roberts, 2015: Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010. Journal of Climate, *in revision*.
+- Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D. P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng, 2015: The land surface climate in the Regional Arctic System Model. Journal of Climate, *in review*.
+- Hamman, J.J., Hamlet, A.F., Lee, Se-Yeun, Grossman, E.E., Fuller, R.  (2015). Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain. Northwest Science, *accepted*.
 - Freitag, B., Carlton, D., & Hamman, J. (2012). Building better flood risk maps: Lessons learned from the electric car. Natural Hazards Observer, XXXVII (1), 8-10.
 
 ### SELECT PRESENTATIONS:
