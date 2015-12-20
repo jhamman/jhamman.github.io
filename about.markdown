@@ -11,6 +11,6 @@ I am a Ph.D. Candidate in the [UW Hydro \| Computational Hydrology Group](http:/
 
 #### Art credits on this webpage:
 
-Unless specifically marked otherwise, photographs on this site are from [Steven Gnam Photography](http://www.stevengnamphotography.com/).
+Unless specifically marked otherwise, photographs on this site are from [Steven Gnam Photography](http://www.gnam.photo/).
 
 Satellite images are from [NASA](https://www.nasa.gov/multimedia/imagegallery/iotd.html).
