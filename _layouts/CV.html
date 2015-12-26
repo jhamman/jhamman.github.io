@@ -1,0 +1,45 @@
+---
+layout: page
+---
+{% include wrap.html %}
+
+{{ content }}
+
+<h3>Publications</h3>
+
+<div class="hline"></div>
+{% if site.data.pubs.articles_in_prep.size > 0 %}
+    <h4>In preparation</h4>
+    {% for pub in site.data.pubs.articles_in_prep %}
+        {% include article_in_prep.html %}
+    {% endfor %}
+    <div class="hline"></div>
+{% endif %}
+{% if site.data.pubs.articles_in_review.size > 0 %}
+    <h4>In review / in revision</h4>
+    {% for pub in site.data.pubs.articles_in_review %}
+        {% include article_in_review.html %}
+    {% endfor %}
+    <div class="hline"></div>
+{% endif %}
+{% if site.data.pubs.articles_accepted.size > 0 %}
+    <h4>Accepted</h4>
+    {% for pub in site.data.pubs.articles_accepted %}
+        {% include article_accepted.html %}
+    {% endfor %}
+    <div class="hline"></div>
+{% endif %}
+{% if site.data.pubs.articles_published.size > 0 %}
+    <h4>Published</h4>
+    {% for pub in site.data.pubs.articles_published %}
+        {% include article_published.html %}
+    {% endfor %}
+    <div class="hline"></div>
+{% endif %}
+{% if site.data.pubs.articles_published_editorial.size > 0 %}
+    <h4>Editorials</h4>
+    {% for pub in site.data.pubs.articles_published_editorial %}
+        {% include article_published_editorial.html %}
+    {% endfor %}
+    <div class="hline"></div>
+{% endif %}

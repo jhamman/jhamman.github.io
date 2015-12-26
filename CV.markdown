@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: CV
 title: "CV"
 description: "Curriculum Vitae"
 header-img: "img/GNAM_1308.jpg"
@@ -7,17 +7,17 @@ header-img: "img/GNAM_1308.jpg"
 
 ### RESEARCH INTERESTS:
 
-Climate Modeling, Land-Atmosphere Interactions, Climate Variability, Climate Change Impacts, and Water Resources Management
+Hydrologic Modeling, Climate Modeling, Land-Atmosphere Interactions, Climate Variability, Climate Change Impacts, and Water Resources Management
 
 ### CURRENT RESEARCH:
 
 - Regional Arctic System Model (RASM).
 - Coupled Glacier Hydrologic Modeling in the Columbia River Basin.
-- Analysis of Cool-Season Precipitation in Western United States.
 
 ### EDUCATION:
 
 - Ph.D. Candidate, Civil and Environmental Engineering, Univ. of Washington, expected graduation: Spring 2016.
+  - Dissertation: Understanding the Arctic Hydroclimate Using the Regional Arctic System Model
 - M.S., Civil Engineering, Dept. of Civil and Environmental Engineering, Univ. of Washington, 2012.  
   - Emphasis:  Climate Change Impacts, Hydrology, and Water Resources.  
   - Thesis:  Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in Puget Sound Floodplains and Estuaries.
@@ -51,7 +51,7 @@ Climate Modeling, Land-Atmosphere Interactions, Climate Variability, Climate Cha
 |---------------|:----------------------------------------------------------------------------------------------|
 | 2012-2014 	  | Teaching Assistant, Environmental and Water Resource Seminar.                              	  |
 |---------------+-----------------------------------------------------------------------------------------------|
-| Spring 2013 	| Adjunct Professor:  CEEGR 371 Water Resource Engineering I – undergraduate course at Seattle University.  (Teaching evaluations available by request). |
+| Spring 2013 	| Adjunct Professor:  CEEGR 371 Water Resource Engineering I – undergraduate course at Seattle University. |
 |===============+===============================================================================================|
 
 ### HONORS & AWARDS:
@@ -77,24 +77,3 @@ Climate Modeling, Land-Atmosphere Interactions, Climate Variability, Climate Cha
 - American Geophysical Union (AGU)
 - American Water Resources Association (AWRA)
 - American Society for Civil Engineers (ASCE)
-
-### SELECT PUBLICATIONS:
-
-- Hamman, J.J., Nijssen, B., Roberts, A., Osinski, R., Lettenmaier D.P., Maslowski., W. (Manuscript in preparation - 2015). Land-Ocean Coupling in the Regional Arctic System Model.
-- Cassano, J., A. DuVivier, A. Roberts, M. Hughes, M. Seefeldt, M. Brunke, A. Craig, B. Fisel, W. Gutowski, J. Hamman, M. Higgins, W. Maslowski, Bart N., Robert O., X. Zeng, 2015: Near Surface Atmospheric Climate of the Regional Arctic System Model (RASM). Journal of Climate, *in review*.
-DuVivier, A.K., J. Cassano, A. Craig, J. Hamman, W. Maslowski, B. Nijssen, R. Osinski, and A. Roberts, 2015: Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010. Journal of Climate, *in revision*.
-- Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D. P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng, 2015: The land surface climate in the Regional Arctic System Model. Journal of Climate, *in review*.
-- Hamman, J.J., Hamlet, A.F., Lee, Se-Yeun, Grossman, E.E., Fuller, R.  (2015). Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain. Northwest Science, *accepted*.
-- Freitag, B., Carlton, D., & Hamman, J. (2012). Building better flood risk maps: Lessons learned from the electric car. Natural Hazards Observer, XXXVII (1), 8-10.
-
-### SELECT PRESENTATIONS:
-
-- Hamman, J.J., Brunke, M., Zeng, X., Roberts, A., Maslowski, W., Lettenmaier, D.P., Nijssen, B. (2014, December). Representation of the Land Surface in the Regional Arctic System Model (RASM). Poster presented at the 2014 American Geophysical Union Fall Meeting, San Francisco, CA.
-- Hamman, J.J., Nijssen, B., Lettenmaier, D.P., Naz, B., Fyke, J. (2014, September). A Macroscale Glacier Model to Evaluate Climate Change Impacts in the Columbia River Basin. Oral presentation at the 2014 Pacific Northwest Climate Science Conference, Seattle, WA.
-- Hamman, J.J., Nijssen, B., Roberts, A., Osinski, R., Craig, A.P., Clement-Kinney, J., Maslowski, W., Lettenmaier, D.P. (2013, December). Coupled Streamflow Routing in the Regional Arctic System Model (RASM). Poster session presented at the 2013 American Geophysical Union Fall Meeting, San Francisco, CA.
-- Hamman, J.J., B. Nijssen, A. Roberts, and D. Lettenmaier (2013, May). The Land-Ocean Freshwater Flux in the Regional Arctic System Model (RASM): Assessing Model Performance Using Streamflow. Oral presentation for the 12th Conference on Polar Meteorology and Oceanography, Seattle, WA.
-- Hamman, J.J., Hamlet, A.F., Grossman, E.E., Fuller, R. (2012, December). Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in the Skagit River Floodplain and Estuary. Poster session presented at the 2012 American Geophysical Union Fall Meeting, San Francisco, CA.
-- Nijssen, B., Hamman, J.J., Roberts, A., Tan, A., Lettenmaier, D.P. (2012, December). Land Surface Hydrology and the Land-Ocean Freshwater Flux in the Regional Arctic System Model (RASM). Poster session presented at the 2012 American Geophysical Union Fall Meeting, San Francisco, CA.
-- Hamman, J.J., Hamlet, A.F. (2012, September). Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in the Skagit River Floodplain. Oral presentation at the 2012 Pacific Northwest Climate Science Conference, Boise, ID.
-- Hamman, J.J. (2012, June). Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in Puget Sound Floodplains and Estuaries. Masters Thesis Defense presentation, Department of Civil & Environmental Engineering, University of Washington, Seattle, WA.
-- Hamman, J.J., Hamlet, A.F., Littell, J.  (2011, September).  Diagnosis of Changing Cool Season Precipitation Statistics in the Western U.S. from 1916-2003.  Poster session presented at the 2011 Pacific Northwest Climate Science Conference, Seattle, WA.

@@ -1,0 +1,53 @@
+# arcticles_in_prep - shown on the publications page
+articles_in_prep:
+  - title: "Land-Ocean Coupling in the Regional Arctic System Model"
+    authors: Hamman, J., B. Nijssen, A. Roberts, R. Osinski, D. P. Lettenmaier, and W. Maslowski
+    year: 2016
+    journal: "Journal of Geophysical Research: Oceans"
+    status: In preparation
+  - title: "The Variable Infiltration Capacity (VIC) Model, Version 5.0 - improvements and new applications"
+    authors: Hamman, J., and B. Nijssen
+    year: 2016
+    journal: "Journal of Advances in Modeling Earth Systems"
+    status: In preparation
+  - title: "xray: N-D labeled arrays and datasets in Python"
+    authors: Hoyer, S., Hamman J., Kleeman A., Fitzgerald C., Rocklin M.
+    year: 2016
+    journal: "Journal of Open Research Software"
+    status: In preparation
+
+# articles_in_review - shown on the publications page
+articles_in_review:
+  - title: "Near Surface Atmospheric Climate of the Regional Arctic System Model (RASM)"
+    authors: Cassano, J., A. DuVivier, A. Roberts, M. Hughes, M. Seefeldt, M. Brunke, A. Craig, B. Fisel, W. Gutowski, J. Hamman, M. Higgins, W. Maslowski, B. Nijssen, R. Osinski, and X. Zeng
+    year: 2015
+    journal: Journal of Climate
+    status: in review
+  - title: "The land surface climate in the Regional Arctic System Model"
+    authors: Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D. P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng
+    year: 2015
+    journal: Journal of Climate
+    status: in review
+
+# articles_accepted - shown on the publications page
+articles_accepted:
+  - title: "Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010"
+    authors: DuVivier, A.K., J. Cassano, A. Craig, J. Hamman, W. Maslowski, B. Nijssen, R. Osinski, and A. Roberts
+    year: 2015
+    journal: Journal of Climate
+    status: accepted
+  - title: "Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain"
+    authors: Hamman, J., Hamlet, A., Lee, Se-Yeun, Grossman, E., and Fuller, R.
+    year: 2015
+    journal: Northwest Science
+    status: accepted
+
+# articles_published - shown on the publications page
+articles_published:
+
+# articles_published - shown on the publications page
+articles_published_editorial:
+  - title: "Building better flood risk maps: Lessons learned from the electric car"
+    authors: Freitag, B., Carlton, D., and Hamman, J.
+    year: 2012
+    journal: Natural Hazards Observer, XXXVII (1)
