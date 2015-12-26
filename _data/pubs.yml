@@ -31,11 +31,6 @@ articles_in_review:
 
 # articles_accepted - shown on the publications page
 articles_accepted:
-  - title: "Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010"
-    authors: DuVivier, A.K., J. Cassano, A. Craig, J. Hamman, W. Maslowski, B. Nijssen, R. Osinski, and A. Roberts
-    year: 2015
-    journal: Journal of Climate
-    status: accepted
   - title: "Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain"
     authors: Hamman, J., Hamlet, A., Lee, Se-Yeun, Grossman, E., and Fuller, R.
     year: 2015
@@ -44,7 +39,11 @@ articles_accepted:
 
 # articles_published - shown on the publications page
 articles_published:
-
+  - title: "Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010"
+    authors: DuVivier, A.K., J. Cassano, A. Craig, J. Hamman, W. Maslowski, B. Nijssen, R. Osinski, and A. Roberts
+    year: 2015
+    journal: Journal of Climate
+    doi: 10.1175/JCLI-D-15-0592.1
 # articles_published - shown on the publications page
 articles_published_editorial:
   - title: "Building better flood risk maps: Lessons learned from the electric car"
