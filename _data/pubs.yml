@@ -11,7 +11,7 @@ articles_in_prep:
     journal: "Journal of Advances in Modeling Earth Systems"
     status: In preparation
   - title: "xray: N-D labeled arrays and datasets in Python"
-    authors: Hoyer, S., Hamman J., Kleeman A., Fitzgerald C., Rocklin M.
+    authors: Hoyer, S., J. Hamman, A. Kleeman, C. Fitzgerald, M. Rocklin
     year: 2016
     journal: "Journal of Open Research Software"
     status: In preparation
@@ -24,7 +24,7 @@ articles_in_review:
     journal: Journal of Climate
     status: in review
   - title: "The land surface climate in the Regional Arctic System Model"
-    authors: Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D. P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng
+    authors: Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D.P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng
     year: 2015
     journal: Journal of Climate
     status: in review
@@ -32,7 +32,7 @@ articles_in_review:
 # articles_accepted - shown on the publications page
 articles_accepted:
   - title: "Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain"
-    authors: Hamman, J., Hamlet, A., Lee, Se-Yeun, Grossman, E., and Fuller, R.
+    authors: Hamman, J., A. Hamlet, S. Lee, E. Grossman, and R. Fuller
     year: 2015
     journal: Northwest Science
     status: accepted
@@ -47,6 +47,6 @@ articles_published:
 # articles_published - shown on the publications page
 articles_published_editorial:
   - title: "Building better flood risk maps: Lessons learned from the electric car"
-    authors: Freitag, B., Carlton, D., and Hamman, J.
+    authors: Freitag, B., D. Carlton, and J. Hamman
     year: 2012
     journal: Natural Hazards Observer, XXXVII (1)
