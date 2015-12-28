@@ -1,45 +1,160 @@
 ---
 layout: page
 ---
-{% include wrap.html %}
 
 {{ content }}
 
-<h3>Publications</h3>
+<h3>RESEARCH INTERESTS</h3>
+<ul style="margin-left: 8px; margin-right: 8px;">
+  {% for interest in site.data.CV.research_interests %}
+    <li>{{ interest }}</li>
+  {% endfor %}
+</ul>
 
 <div class="hline"></div>
+
+<h3>CURRENT RESEARCH</h3>
+<ul style="margin-left: 8px; margin-right: 8px;">
+  {% for research in site.data.CV.current_research %}
+  <li>{{ research }}</li>
+  {% endfor %}
+</ul>
+
+<div class="hline"></div>
+
+<h3>EDUCATION</h3>
+<ul style="margin-left: 8px; margin-right: 8px;">
+  {% for ed in site.data.CV.education %}
+    <li><b>{{ ed.degree }}</b>, {{ ed.year }}: <span class="program">{{ ed.program }}</span>, {{ ed.school }}, {{ ed.location }}</li>
+    {% if ed contains 'emphasis' %}
+      <ul style="margin-left: 8px; margin-right: 8px;">
+        <li><b>Emphasis:</b> {{ed.emphasis}}</li>
+      </ul>
+    {% endif %}
+    {% if ed contains 'thesis' %}
+      <ul style="margin-left: 8px; margin-right: 8px;">
+        <li><b>Thesis:</b> {{ed.thesis}}</li>
+      </ul>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<div class="hline"></div>
+
+<h3>POSITIONS HELD</h3>
+<table style="width:100%">
+  <tr>
+    <th>Period</th>
+    <th>Position</th>
+    <th>Employer</th>
+  </tr>
+  {% for exp in site.data.CV.positions_held %}
+    <tr>
+      <td>{{exp.period}}</td>
+      <td>{{exp.position}}</td>
+      <td>{{exp.employer}}, {{exp.location}}</td>
+    </tr>
+  {% endfor %}
+</table>
+
+<div class="hline"></div>
+
+<h3>TEACHING EXPERIENCE</h3>
+<table style="width:100%">
+  <tr>
+    <th>Terms</th>
+    <th>Position</th>
+    <th>Course</th>
+  </tr>
+  {% for teach in site.data.CV.teaching %}
+    <tr>
+      <td>{{teach.term}}</td>
+      <td>{{teach.position}}</td>
+      <td>{{teach.course}}. {{teach.university}}, {{teach.location}}</td>
+    </tr>
+  {% endfor %}
+</table>
+<div class="hline"></div>
+
+<h3>AWARDS</h3>
+<table style="width:100%">
+  <tr>
+    <th>Date</th>
+    <th>Title</th>
+  </tr>
+  {% for award in site.data.CV.awards %}
+    <tr>
+      <td>{{award.date}}</td>
+      <td>{{award.title}}</td>
+    </tr>
+  {% endfor %}
+</table>
+
+<div class="hline"></div>
+
+<h3>LICENSES</h3>
+<table style="width:100%">
+  <tr>
+    <th>Date</th>
+    <th>Title</th>
+    <th>Number</th>
+  </tr>
+  {% for license in site.data.CV.licenses %}
+    <tr>
+      <td>{{license.date}}</td>
+      <td>{{license.title}}</td>
+      <td>{{license.number}}</td>
+    </tr>
+  {% endfor %}
+</table>
+<div class="hline"></div>
+
+<h3>MEMBERSHIPS</h3>
+<ul style="margin-left: 8px; margin-right: 8px;">
+  {% for member in site.data.CV.memberships %}
+    <li><a href="{{member.url}}" target="_blank">{{member.name}}</a></li>
+  {% endfor %}
+</ul>
+<div class="hline"></div>
+
+
+<h3>PUBLICATIONS</h3>
+
 {% if site.data.pubs.articles_in_prep.size > 0 %}
-    <h4>In preparation</h4>
-    {% for pub in site.data.pubs.articles_in_prep %}
-        {% include article_in_prep.html %}
-    {% endfor %}
-    <div class="hline"></div>
+  <h4>In preparation</h4>
+  {% for pub in site.data.pubs.articles_in_prep %}
+    {% include article_in_prep.html %}
+  {% endfor %}
+  <div class="hline"></div>
 {% endif %}
 {% if site.data.pubs.articles_in_review.size > 0 %}
-    <h4>In review / in revision</h4>
-    {% for pub in site.data.pubs.articles_in_review %}
-        {% include article_in_review.html %}
+  <h4>In review / in revision</h4>
+  {% for pub in site.data.pubs.articles_in_review %}
+    {% include article_in_review.html %}
     {% endfor %}
     <div class="hline"></div>
 {% endif %}
+
 {% if site.data.pubs.articles_accepted.size > 0 %}
-    <h4>Accepted</h4>
-    {% for pub in site.data.pubs.articles_accepted %}
-        {% include article_accepted.html %}
-    {% endfor %}
-    <div class="hline"></div>
+  <h4>Accepted</h4>
+  {% for pub in site.data.pubs.articles_accepted %}
+    {% include article_accepted.html %}
+  {% endfor %}
+  <div class="hline"></div>
 {% endif %}
+
 {% if site.data.pubs.articles_published.size > 0 %}
-    <h4>Published</h4>
-    {% for pub in site.data.pubs.articles_published %}
-        {% include article_published.html %}
-    {% endfor %}
-    <div class="hline"></div>
+  <h4>Published</h4>
+  {% for pub in site.data.pubs.articles_published %}
+    {% include article_published.html %}
+  {% endfor %}
+  <div class="hline"></div>
 {% endif %}
+
 {% if site.data.pubs.articles_published_editorial.size > 0 %}
-    <h4>Editorials</h4>
-    {% for pub in site.data.pubs.articles_published_editorial %}
-        {% include article_published_editorial.html %}
-    {% endfor %}
-    <div class="hline"></div>
+  <h4>Editorials</h4>
+  {% for pub in site.data.pubs.articles_published_editorial %}
+    {% include article_published_editorial.html %}
+  {% endfor %}
+  <div class="hline"></div>
 {% endif %}

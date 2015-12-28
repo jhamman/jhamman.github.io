@@ -1,0 +1,86 @@
+research_interests:
+  - Hydrologic Modeling
+  - Climate Modeling
+  - Land-Atmosphere Interactions
+  - Climate Variability
+  - Climate Change Impacts
+  - Water Resources Management
+
+current_research:
+  - Regional Arctic System Model (RASM)
+  - Coupled Glacier Hydrologic Modeling in the Columbia River Basin
+
+education:
+  - school: University of Washington
+    location: Seattle, Washington
+    program: Civil and Environmental Engineering
+    degree: Ph.D. Candidate
+    year: Expected 2016
+    emphasis: Hydrologic modeling, coupled land-atmosphere interactions
+    thesis: Understanding the Arctic Hydroclimate Using the Regional Arctic System Model
+  - school: University of Washington
+    location: Seattle, Washington
+    program: Civil and Environmental Engineering
+    degree: M.S.
+    year: 2012
+    emphasis: Climate Change Impacts, Hydrology, and Water Resources.
+    thesis: Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in Puget Sound Floodplains and Estuaries
+  - school: University of Arizona
+    location: Tucson, Arizona
+    program: Civil Engineering
+    degree: B.S.
+    year: 2007
+    emphasis: Water Resources and Geotechnical Engineering
+
+positions_held:
+  - position: Adjunct Professor
+    employer: Deptartment of Civil and Environmental Engineering, Seattle University
+    location: Seattle, Washington
+    period: 2013
+  - position: Research Assistant
+    employer: Department of Civil and Environmental Engineering, University of Washington
+    location: Seattle, Washington
+    period: 2010 - present
+  - position: Water Resource Specialist
+    employer: Cardno TEC, Inc.
+    location: Seattle, Washington
+    period: 2010 - 2014
+  - position: Civil Engineer Designer II
+    employer: Roth-Hill Engineering Partners
+    location: Bellevue, Washington
+    period: 2007 - 2009
+  - position: Civil Engineering Intern
+    employer: Dowl Engineering
+    location: Tucson, Arizona
+    period: 2007
+
+teaching:
+    - course: "CEE 500: Environmental and Water Resource Seminar"
+      term: Fall 2012, Fall 2013, Fall 2014
+      position: Teaching Assistant
+      university: University of Washington
+      location: Seattle, Washington
+    - course: "CEEGR 371: Water Resource Engineering I"
+      term: Spring 2013
+      position: Adjunct Professor
+      university: Seattle University
+      location: Seattle, Washington
+
+awards:
+  - title: University of Washington Water Symposium Best Student Presentation Award
+    date: 2012
+
+licenses:
+  - title: Professional Engineer in the State of Washington
+    number: 50453
+    date: 2013-present
+
+memberships:
+  - name: American Geophysical Union (AGU)
+    url: "http://www.agu.org/"
+  - name: American Meteorology Association (AMS)
+    url: "https://www2.ametsoc.org/"
+  - name: American Society for Civil Engineers (ASCE)
+    url: "http://www.asce.org/"
+  - name: American Water Resources Association (AWRA)
+    url: "http://www.awra.org/"
