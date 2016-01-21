@@ -17,6 +17,6 @@ For the majority of my Ph.D., I have been one of the main developers of the [Var
 
 [pynco](http://pynco.readthedocs.org) is a set of Python bindings to the popular [netCDF Operators (NCO)](http://nco.sourceforge.net/).  This package is available on [PyPI](https://pypi.python.org/pypi/pynco), [Anaconda](https://anaconda.org/ioos/nco), and [Github](https://github.com/nco/pynco).
 
-#### xray
+#### xarray
 
-[xray](http://xray.readthedocs.org) is the fusion of Python's Pandas, Numpy, and netCDF4 packages. It offers unparalleled computational ability on labeled N-dimensional arrays. I have been contributing to the xray project since May 2014.
+[xarray](http://xarray.pydata.org/en/stable/) (formerly `xray`) is the fusion of Python's Pandas, Numpy, and netCDF4 packages. It offers unparalleled computational ability on labeled N-dimensional arrays. I have been contributing to the xarray project since May 2014.
