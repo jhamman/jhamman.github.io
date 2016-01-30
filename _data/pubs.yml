@@ -27,7 +27,7 @@ articles_in_review:
     authors: Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D.P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng
     year: 2015
     journal: Journal of Climate
-    status: in review
+    status: in revision
 
 # articles_accepted - shown on the publications page
 articles_accepted:
@@ -41,7 +41,7 @@ articles_accepted:
 articles_published:
   - title: "Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010"
     authors: DuVivier, A.K., J. Cassano, A. Craig, J. Hamman, W. Maslowski, B. Nijssen, R. Osinski, and A. Roberts
-    year: 2015
+    year: 2016
     journal: Journal of Climate
     doi: 10.1175/JCLI-D-15-0592.1
 # articles_published - shown on the publications page
