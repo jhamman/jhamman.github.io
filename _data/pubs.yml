@@ -31,14 +31,14 @@ articles_in_review:
 
 # articles_accepted - shown on the publications page
 articles_accepted:
-  - title: "Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain"
-    authors: Hamman, J., A. Hamlet, S. Lee, E. Grossman, and R. Fuller
-    year: 2015
-    journal: Northwest Science
-    status: accepted
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain"
+    authors: Hamman, J., A. Hamlet, S. Lee, E. Grossman, and R. Fuller
+    year: 2016
+    journal: Northwest Science
+    doi: 10.3955/046.090.0106
   - title: "Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010"
     authors: DuVivier, A.K., J. Cassano, A. Craig, J. Hamman, W. Maslowski, B. Nijssen, R. Osinski, and A. Roberts
     year: 2016
