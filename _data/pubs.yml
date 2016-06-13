@@ -23,14 +23,14 @@ articles_in_review:
     year: 2015
     journal: Journal of Climate
     status: in revision
-  - title: "Land surface climate in the Regional Arctic System Model"
-    authors: Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D.P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng
-    year: 2015
-    journal: Journal of Climate
-    status: in revision
 
 # articles_accepted - shown on the publications page
 articles_accepted:
+  - title: "Land surface climate in the Regional Arctic System Model"
+    authors: Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D.P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng
+    year: 2016
+    journal: Journal of Climate
+    status: accepted
 
 # articles_published - shown on the publications page
 articles_published:
