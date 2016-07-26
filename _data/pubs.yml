@@ -26,14 +26,14 @@ articles_in_review:
 
 # articles_accepted - shown on the publications page
 articles_accepted:
+
+# articles_published - shown on the publications page
+articles_published:
   - title: "Land surface climate in the Regional Arctic System Model"
     authors: Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D.P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng
     year: 2016
     journal: Journal of Climate
-    status: accepted
-
-# articles_published - shown on the publications page
-articles_published:
+    doi: 10.1175/JCLI-D-15-0415.1
   - title: "Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain"
     authors: Hamman, J., A. Hamlet, S. Lee, E. Grossman, and R. Fuller
     year: 2016
