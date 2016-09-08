@@ -13,6 +13,11 @@ articles_in_prep:
 
 # articles_in_review - shown on the publications page
 articles_in_review:
+  - title: "The Coastal Streamflow Flux in the Regional Arctic System Model"
+    authors: Hamman, J., B. Nijssen, A. Roberts, R. Osinski, D. P. Lettenmaier, and W. Maslowski
+    year: 2016
+    journal: "Journal of Geophysical Research: Oceans"
+    status: in review
   - title: "xarray: N-D labeled arrays and datasets in Python"
     authors: Hoyer, S., and J. Hamman
     year: 2016
