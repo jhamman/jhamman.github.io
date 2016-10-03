@@ -14,8 +14,8 @@ education:
   - school: University of Washington
     location: Seattle, Washington
     program: Civil and Environmental Engineering
-    degree: Ph.D. Candidate
-    year: Expected 2016
+    degree: Ph.D.
+    year: 2016
     emphasis: Hydrologic modeling, coupled land-atmosphere interactions
     thesis: Understanding the Arctic Hydroclimate Using the Regional Arctic System Model
   - school: University of Washington
@@ -40,7 +40,7 @@ positions_held:
   - position: Research Assistant
     employer: Department of Civil and Environmental Engineering, University of Washington
     location: Seattle, Washington
-    period: 2010 - present
+    period: 2010 - 2016
   - position: Water Resource Specialist
     employer: Cardno TEC, Inc.
     location: Seattle, Washington
