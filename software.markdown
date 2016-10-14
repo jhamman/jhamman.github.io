@@ -7,7 +7,7 @@ header-img: "img/GNAM_2197.jpg"
 
 #### VIC
 
-For the majority of my Ph.D., I have been one of the main developers of the [Variable Infiltration Capacity](http://vic.readthedocs.org) macro-scale land surface hydrology model. During this time, I have acted as the VIC model administrator, responsible for the [VIC github](https://github.com/UW-Hydro/VIC) repository, making releases, and issuing bug fixes.
+From 2012-2016, I was part of the core development team working on the [Variable Infiltration Capacity](http://vic.readthedocs.org) macro-scale land surface hydrology model. During this time, I acted as the VIC model administrator, responsible for the [VIC github](https://github.com/UW-Hydro/VIC) repository, making releases, and issuing bug fixes. I continue to contribute to VIC development.
 
 #### RVIC
 
