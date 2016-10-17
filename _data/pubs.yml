@@ -17,7 +17,7 @@ articles_in_review:
     authors: Hamman, J., B. Nijssen, A. Roberts, R. Osinski, D. P. Lettenmaier, and W. Maslowski
     year: 2016
     journal: "Journal of Geophysical Research: Oceans"
-    status: in review
+    status: in revision
   - title: "xarray: N-D labeled arrays and datasets in Python"
     authors: Hoyer, S., and J. Hamman
     year: 2016
