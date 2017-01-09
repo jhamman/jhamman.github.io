@@ -6,18 +6,13 @@ articles_in_prep:
     journal: "Geoscientific Model Development"
     status: In preparation
   - title: "On the relationship between Arctic winter precipitation and minimum sea ice extent"
-    authors: Hamman, J., B. Nijssen, J. Cassano, and A. Roberts
+    authors: Hamman, J., B. Nijssen, J. Cassano, W. Maslowski, and A. Roberts
     year: 2016
-    journal: "Geophysical Research Letters"
+    journal: "Journal of Geophysical Research: Atmospheres"
     status: In preparation
 
 # articles_in_review - shown on the publications page
 articles_in_review:
-  - title: "Evaluation of Atmosphere-Land-Ocean-Sea Ice Interface Processes in the Regional Arctic System Model Version 1.0 (RASM1.0)"
-    authors: Brunke, M., J. Cassano, N. Dawson, A. DuVivier, W. Gutowski, J. Hamman, J., W. Maslowski, B. Nijssen, J. Renteria, A. Roberts, and X. Zeng
-    year: 2016
-    journal: "Journal of Climate"
-    status: in review
   - title: "The Coastal Streamflow Flux in the Regional Arctic System Model"
     authors: Hamman, J., B. Nijssen, A. Roberts, A. Craig, W. Maslowski, and R. Osinski
     year: 2016

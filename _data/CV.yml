@@ -91,3 +91,9 @@ memberships:
     url: "http://www.asce.org/"
   - name: American Water Resources Association (AWRA)
     url: "http://www.awra.org/"
+
+peer_reviews:
+    - name: Journal of Hydrometeorology (JHM)
+      url: "https://www.ametsoc.org/ams/index.cfm/publications/journals/journal-of-hydrometeorology/"
+    - name: Environmental Modelling and Software (ENVSOFT)
+      url: "https://www.journals.elsevier.com/environmental-modelling-and-software/"
