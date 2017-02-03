@@ -31,6 +31,7 @@ articles_accepted:
     year: 2017
     journal: "Journal of Geophysical Research: Oceans"
     status: accepted
+    doi: 10.1002/2016JC012323
 
 
 # articles_published - shown on the publications page
