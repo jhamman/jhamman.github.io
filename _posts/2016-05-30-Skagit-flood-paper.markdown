@@ -27,6 +27,6 @@ The Flo2D model is the same model used by FEMA and USACE for their flood mapping
 
 Following up on my work, The Skagit Climate Science Consortium (SC2) funded work to provide an interactive mapping tool that allows users to visualize future flood scenarios.  The tool turned out really nice and is publicly available here: [http://www.skagitclimatescience.org/flood-scenario-map/](http://www.skagitclimatescience.org/flood-scenario-map/).
 
-#### Refs:
+#### References:
 - Northwest Science Special Issue: http://dx.doi.org/10.3955/046.090.0102
 - Hamman, J., A. Hamlet, S. Lee, E. Grossman, and R. Fuller, 2016: Combined Effects of Projected Sea Level Rise, Storm Surge, and Peak River Flows on Water Levels in the Skagit Floodplain. Northwest Science, [doi:10.3955/046.090.0106](http://dx.doi.org/10.3955/046.090.0106).
