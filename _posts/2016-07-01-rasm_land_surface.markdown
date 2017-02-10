@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Evaluation of the RASM Land Surface Climate"
+title:      "Paper Highlight: Evaluation of the RASM Land Surface Climate"
 date:       2016-07-01 12:00:00
 author:     "Joe Hamman"
 header-img: "img/home-bg.jpg"

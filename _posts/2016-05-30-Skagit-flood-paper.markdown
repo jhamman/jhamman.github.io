@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Skagit Flooding"
+title:      "Paper Highlight: Climate Impacts on Skagit River Flooding"
 date:       2016-05-30 12:00:00
 author:     "Joe Hamman"
 header-img: "img/home-bg.jpg"
