@@ -57,3 +57,10 @@ articles_published_editorial:
     authors: Freitag, B., D. Carlton, and J. Hamman
     year: 2012
     journal: Natural Hazards Observer, XXXVII (1)
+
+datasets_published:
+  - title: "The Coastal Streamflow Flux in the Regional Arctic System Model [Data set]"
+    authors: Hamman, J., B. Nijssen, A. Roberts, A. Craig, W. Maslowski, and R. Osinski.
+    year: 2017
+    journal: Zenodo
+    doi: 10.5281/zenodo.293037

@@ -166,3 +166,11 @@ layout: page
   {% endfor %}
   <div class="hline"></div>
 {% endif %}
+
+{% if site.data.pubs.datasets_published.size > 0 %}
+  <h4>Datasets</h4>
+  {% for pub in site.data.pubs.datasets_published %}
+    {% include article_published.html %}
+  {% endfor %}
+  <div class="hline"></div>
+{% endif %}
