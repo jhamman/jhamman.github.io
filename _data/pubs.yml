@@ -25,7 +25,8 @@ articles_accepted:
     authors: Hoyer, S., and J. Hamman
     year: 2017
     journal: "Journal of Open Research Software"
-    status: accepted
+    status: in press
+    doi: 10.5334/jors.148
 
 # articles_published - shown on the publications page
 articles_published:
