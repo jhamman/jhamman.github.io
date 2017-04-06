@@ -20,16 +20,16 @@ articles_in_review:
     status: in revision
 
 # articles_accepted - shown on the publications page
-articles_accepted:
+# articles_accepted:
+
+# articles_published - shown on the publications page
+articles_published:
   - title: "xarray: N-D labeled arrays and datasets in Python"
     authors: Hoyer, S., and J. Hamman
     year: 2017
     journal: "Journal of Open Research Software"
     status: in press
     doi: 10.5334/jors.148
-
-# articles_published - shown on the publications page
-articles_published:
   - title: "The Coastal Streamflow Flux in the Regional Arctic System Model"
     authors: Hamman, J., B. Nijssen, A. Roberts, A. Craig, W. Maslowski, and R. Osinski
     year: 2017
