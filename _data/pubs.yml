@@ -12,15 +12,15 @@ articles_in_prep:
     status: In preparation
 
 # articles_in_review - shown on the publications page
-articles_in_review:
-  - title: "Near Surface Atmospheric Climate of the Regional Arctic System Model (RASM)"
-    authors: Cassano, J., A. DuVivier, A. Roberts, M. Hughes, M. Seefeldt, M. Brunke, A. Craig, B. Fisel, W. Gutowski, J. Hamman, M. Higgins, W. Maslowski, B. Nijssen, R. Osinski, and X. Zeng
-    year: 2015
-    journal: Journal of Climate
-    status: in revision
+# articles_in_review:
 
 # articles_accepted - shown on the publications page
-# articles_accepted:
+articles_accepted:
+  - title: "Near Surface Atmospheric Climate of the Regional Arctic System Model (RASM)"
+    authors: Cassano, J., A. DuVivier, A. Roberts, M. Hughes, M. Seefeldt, M. Brunke, A. Craig, B. Fisel, W. Gutowski, J. Hamman, M. Higgins, W. Maslowski, B. Nijssen, R. Osinski, and X. Zeng
+    year: 2017
+    journal: Journal of Climate
+    status: accepted
 
 # articles_published - shown on the publications page
 articles_published:
@@ -28,13 +28,11 @@ articles_published:
     authors: Hoyer, S., and J. Hamman
     year: 2017
     journal: "Journal of Open Research Software"
-    status: in press
     doi: 10.5334/jors.148
   - title: "The Coastal Streamflow Flux in the Regional Arctic System Model"
     authors: Hamman, J., B. Nijssen, A. Roberts, A. Craig, W. Maslowski, and R. Osinski
     year: 2017
     journal: "Journal of Geophysical Research: Oceans"
-    status: accepted
     doi: 10.1002/2016JC012323
   - title: "Land surface climate in the Regional Arctic System Model"
     authors: Hamman, J., B. Nijssen, M. Brunke, J. Cassano, A. Craig, A. DuVivier, M. Hughes, D.P. Lettenmaier, W. Maslowski, R. Osinski, A. Roberts, and X. Zeng
