@@ -38,10 +38,6 @@ positions_held:
     employer: Research Applications Laboratory, Hydrometeorological Applications Program, National Center for Atmospheric Research
     location: Boulder, Colorado
     period: 2016 - present
-  - position: Adjunct Professor
-    employer: Deptartment of Civil and Environmental Engineering, Seattle University
-    location: Seattle, Washington
-    period: 2013
   - position: Research Assistant
     employer: Department of Civil and Environmental Engineering, University of Washington
     location: Seattle, Washington
@@ -50,6 +46,10 @@ positions_held:
     employer: Cardno TEC, Inc.
     location: Seattle, Washington
     period: 2010 - 2014
+  - position: Adjunct Professor
+    employer: Deptartment of Civil and Environmental Engineering, Seattle University
+    location: Seattle, Washington
+    period: 2013
   - position: Civil Engineer Designer II
     employer: Roth-Hill Engineering Partners
     location: Bellevue, Washington

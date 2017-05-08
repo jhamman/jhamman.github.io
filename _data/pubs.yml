@@ -15,15 +15,15 @@ articles_in_prep:
 # articles_in_review:
 
 # articles_accepted - shown on the publications page
-articles_accepted:
-  - title: "Near Surface Atmospheric Climate of the Regional Arctic System Model (RASM)"
-    authors: Cassano, J., A. DuVivier, A. Roberts, M. Hughes, M. Seefeldt, M. Brunke, A. Craig, B. Fisel, W. Gutowski, J. Hamman, M. Higgins, W. Maslowski, B. Nijssen, R. Osinski, and X. Zeng
-    year: 2017
-    journal: Journal of Climate
-    status: accepted
+# articles_accepted:
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Near surface atmospheric climate of the Regional Arctic System Model (RASM)"
+    authors: Cassano, J., A. DuVivier, A. Roberts, M. Hughes, M. Seefeldt, M. Brunke, A. Craig, B. Fisel, W. Gutowski, J. Hamman, M. Higgins, W. Maslowski, B. Nijssen, R. Osinski, X. Zeng
+    year: 2017
+    journal: Journal of Climate
+    doi: 10.1175/JCLI-D-15-0775.1
   - title: "xarray: N-D labeled arrays and datasets in Python"
     authors: Hoyer, S., and J. Hamman
     year: 2017
