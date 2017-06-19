@@ -93,7 +93,9 @@ memberships:
     url: "http://www.awra.org/"
 
 peer_reviews:
-    - name: Journal of Hydrometeorology (JHM)
-      url: "https://www.ametsoc.org/ams/index.cfm/publications/journals/journal-of-hydrometeorology/"
     - name: Environmental Modelling and Software (ENVSOFT)
       url: "https://www.journals.elsevier.com/environmental-modelling-and-software/"
+    - name: Journal of Hydrometeorology (JHM)
+      url: "https://www.ametsoc.org/ams/index.cfm/publications/journals/journal-of-hydrometeorology/"
+    - name: Water Resources Research (WRR)
+      url: "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-7973/"
