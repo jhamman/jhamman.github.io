@@ -16,8 +16,12 @@ articles_in_prep:
   #   journal: "Journal of Climate"
   #   status: in review
 # articles_in_review - shown on the publications page
-# articles_in_review:
-
+articles_in_review:
+  - title: "Dos and Don’ts for using climate change information for water resource planning and management, version 1.0: guidelines for study design"
+    authors: Vano, J., M. Clark, J. Arnold, B. Nijssen, A. Wood, E. Gutmann, N. Addor, J. Hamman, F. Lehner
+    year: 2017
+    journal: "Climate Services"
+    status: in review
 
 # articles_accepted - shown on the publications page
 # articles_accepted:
