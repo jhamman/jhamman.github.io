@@ -10,13 +10,14 @@ articles_in_prep:
     year: 2016
     journal: "Journal of Geophysical Research: Atmospheres"
     status: In preparation
-  # - title: "Evaluating the atmosphere-land-ocean-sea ice interface processes in the Regional Arctic System Model version 1.0 (RASM1) using local and globally gridded observations"
-  #   authors: Brunke, M., J. Cassano, N. Dawson, A. DuVivier, W. Gutowski, J. Hamman, J., W. Maslowski, B. Nijssen, J. Renteria, A. Roberts, and X. Zeng
-  #   year: 2017
-  #   journal: "Journal of Climate"
-  #   status: in review
+
 # articles_in_review - shown on the publications page
 articles_in_review:
+  - title: "Evaluating the atmosphere-land-ocean-sea ice interface processes in the Regional Arctic System Model version 1.0 (RASM1) using local and globally gridded observations"
+    authors: Brunke, M., J. Cassano, N. Dawson, A. DuVivier, W. Gutowski, J. Hamman, J., W. Maslowski, B. Nijssen, J. Renteria, A. Roberts, and X. Zeng
+    year: 2017
+    journal: "Journal of Climate"
+    status: in review
   - title: "Dos and Don’ts for using climate change information for water resource planning and management, version 1.0: guidelines for study design"
     authors: Vano, J., M. Clark, J. Arnold, B. Nijssen, A. Wood, E. Gutmann, N. Addor, J. Hamman, F. Lehner
     year: 2017
