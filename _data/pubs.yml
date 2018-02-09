@@ -1,10 +1,5 @@
 # arcticles_in_prep - shown on the publications page
 articles_in_prep:
-  - title: "The Variable Infiltration Capacity (VIC) Model, Version 5.0 - improvements and new applications"
-    authors: Hamman, J., B. Nijssen, T. Bohn, Y. Mao, and D. Gergel
-    year: 2016
-    journal: "Geoscientific Model Development"
-    status: In preparation
   - title: "On the relationship between Arctic winter precipitation and minimum sea ice extent"
     authors: Hamman, J., B. Nijssen, J. Cassano, W. Maslowski, and A. Roberts
     year: 2016
@@ -13,6 +8,11 @@ articles_in_prep:
 
 # articles_in_review - shown on the publications page
 articles_in_review:
+  - title: "The Variable Infiltration Capacity Model, Version 5 (VIC-5): Infrastructure improvements for new applications and reproducibility"
+    authors: Hamman, J. J., B. Nijssen, T. J. Bohn, D. R. Gergel, and Y. Mao
+    year: 2018
+    journal: "Geoscientific Model Development"
+    status: "in review"
   - title: "Evaluating the atmosphere-land-ocean-sea ice interface processes in the Regional Arctic System Model version 1.0 (RASM1) using local and globally gridded observations"
     authors: Brunke, M., J. Cassano, N. Dawson, A. DuVivier, W. Gutowski, J. Hamman, J., W. Maslowski, B. Nijssen, J. Renteria, A. Roberts, and X. Zeng
     year: 2018
