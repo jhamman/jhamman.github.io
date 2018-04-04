@@ -5,11 +5,12 @@ research_interests:
   - Climate Variability
   - Climate Change Impacts
   - Water Resources Management
+  - Big-data Science
 
 current_research:
-  - Regional Arctic System Model (RASM) [at UW]
-  - Coupled Glacier Hydrologic Modeling in the Columbia River Basin [at UW]
   - Quantitative hydrologic storylines [at NCAR]
+  - Pangeo - An Open Source Big Data Climate Science Platform [at NCAR]
+  - Regional Arctic System Model (RASM) [at UW]
 
 education:
   - school: University of Washington
@@ -99,3 +100,7 @@ peer_reviews:
       url: "https://www.ametsoc.org/ams/index.cfm/publications/journals/journal-of-hydrometeorology/"
     - name: Water Resources Research (WRR)
       url: "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-7973/"
+    - name: Geophysical Model Development (GMD)
+      url: "https://www.geoscientific-model-development.net/"
+    - name: Hydrology and Earth System Sciences (HESS)
+      url: "https://www.hydrol-earth-syst-sci-discuss.net/"
