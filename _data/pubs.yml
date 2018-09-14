@@ -13,8 +13,13 @@ articles_in_review:
     year: 2018
     journal: "Geoscientific Model Development"
     status: In revision
+  - title: "How do modeling decisions affect the spread among hydrologic climate change projections?"
+    authors: Chegwidden, O., B. Nijssen, D. Rupp, J. Arnold, M. Clark, J. Hamman, S.C. Kao, Y. Mao, P. Mote, M. Pan, E. Pytlak, and M. Xiao
+    year: 2018
+    journal: "Earth's Future"
+    status: In review
 
-# articles_accepted - shown on the publications page
+#. - shown on the publications page
 articles_accepted:
   - title: "Dos and Don’ts for using climate change information for water resource planning and management, version 1.0: guidelines for study design"
     authors: Vano, J., M. Clark, J. Arnold, B. Nijssen, A. Wood, E. Gutmann, N. Addor, J. Hamman, F. Lehner
