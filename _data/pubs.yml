@@ -20,15 +20,15 @@ articles_in_review:
     status: In review
 
 #. - shown on the publications page
-articles_accepted:
+# articles_accepted:
+
+# articles_published - shown on the publications page
+articles_published:
   - title: "Dos and Don’ts for using climate change information for water resource planning and management, version 1.0: guidelines for study design"
     authors: Vano, J., M. Clark, J. Arnold, B. Nijssen, A. Wood, E. Gutmann, N. Addor, J. Hamman, F. Lehner
     year: 2018
     journal: "Climate Services"
-    status: Accepted
-
-# articles_published - shown on the publications page
-articles_published:
+    doi: 10.1016/j.cliser.2018.07.002
   - title: "The Variable Infiltration Capacity Model, Version 5 (VIC-5): Infrastructure improvements for new applications and reproducibility"
     authors: Hamman, J. J., B. Nijssen, T. J. Bohn, D. R. Gergel, and Y. Mao
     year: 2018
