@@ -15,15 +15,16 @@ articles_in_review:
     status: In review
 
 #. - shown on the publications page
-articles_accepted:
+# articles_accepted:
+
+
+# articles_published - shown on the publications page
+articles_published:
   - title: "Evaluation of the atmosphere-land-ocean-sea ice interface processes in the Regional Arctic System Model Version 1 (RASM1) using local and globally gridded observations"
     authors: Brunke, M., J. Cassano, N. Dawson, A. DuVivier, W. Gutowski, J. Hamman, J., W. Maslowski, B. Nijssen, J. Renteria, A. Roberts, and X. Zeng
     year: 2018
     journal: "Geoscientific Model Development"
-    status: In Press
-
-# articles_published - shown on the publications page
-articles_published:
+    doi: 10.5194/gmd-11-4817-2018
   - title: "Dos and Don’ts for using climate change information for water resource planning and management, version 1.0: guidelines for study design"
     authors: Vano, J., M. Clark, J. Arnold, B. Nijssen, A. Wood, E. Gutmann, N. Addor, J. Hamman, F. Lehner
     year: 2018
