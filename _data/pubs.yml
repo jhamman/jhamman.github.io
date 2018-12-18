@@ -12,11 +12,10 @@ articles_in_review:
     authors: Chegwidden, O., B. Nijssen, D. Rupp, J. Arnold, M. Clark, J. Hamman, S.C. Kao, Y. Mao, P. Mote, M. Pan, E. Pytlak, and M. Xiao
     year: 2018
     journal: "Earth's Future"
-    status: In review
+    status: In revision
 
 #. - shown on the publications page
 # articles_accepted:
-
 
 # articles_published - shown on the publications page
 articles_published:
