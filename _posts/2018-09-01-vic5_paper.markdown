@@ -21,10 +21,5 @@ The Variable Infiltration Capacity (VIC) model is a macroscale semi-distributed 
 
 #### References:
 1.  Hamman, J., B. Nijssen, A. Roberts, A. Craig, W. Maslowski, and R. Osinski, 2017a: The Coastal Streamflow Flux in the Regional Arctic System Model. Journal of Geophysical Research: Oceans, [doi:10.1002/2016JC012323](http://dx.doi.org/10.1002/2016JC012323).
-2. VIC Developers. “UW-Hydro/VIC: The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.” UW-Hydro/VIC, GitHub, Last Accessed 2018-09-01, https://github.com/UW-Hydro/VIC.
+2. VIC Developers. “UW-Hydro/VIC: The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.” UW-Hydro/VIC, GitHub, Last Accessed 2018-09-01, [https://github.com/UW-Hydro/VIC](https://github.com/UW-Hydro/VIC).
 2. Joe Hamman, Bart Nijssen, Ted Bohn, Wietse Franssen, Yixin Mao, and Diana Gergel. (2017, February 1). UW-Hydro/VIC: VIC 5.0.1 (Version VIC.5.0.1). Zenodo. [10.5281/zenodo.267178](http://doi.org/10.5281/zenodo.267178).
-
-
-
- 
-
