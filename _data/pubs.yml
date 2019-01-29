@@ -13,7 +13,6 @@ articles_in_review:
     year: 2019
     journal: "Nature"
     status: In review
-articles_in_review:
   - title: "How do modeling decisions affect the spread among hydrologic climate change projections?"
     authors: Chegwidden, O., B. Nijssen, D. Rupp, J. Arnold, M. Clark, J. Hamman, S.C. Kao, Y. Mao, P. Mote, M. Pan, E. Pytlak, and M. Xiao
     year: 2018
