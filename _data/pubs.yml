@@ -70,7 +70,19 @@ articles_published:
     journal: Journal of Climate
     doi: 10.1175/JCLI-D-15-0592.1
 
-# articles_published - shown on the publications page
+# conference_proceedings - shown on the publications page
+conference_proceedings:
+  - title: "The Pangeo Big Data Ecosystem and its use at CNES"
+    authors: Eynard-Bontemps, G., R Abernathey, J. Hamman, A. Ponte, W. Rath
+    editors: P. Soille, S. Loekken, and S. Albani
+    year: 2019
+    proc_title: Proc. of the 2019 conference on Big Data from Space (BiDS’2019)
+    pages: 49-52
+    place: EUR 29660 EN, Publications Office of the European Union, Luxembourg
+    isbn: 978-92-76-00034-1
+    doi: 10.2760/848593
+
+# articles_published_editorial - shown on the publications page
 articles_published_editorial:
   - title: "Building better flood risk maps: Lessons learned from the electric car"
     authors: Freitag, B., D. Carlton, and J. Hamman

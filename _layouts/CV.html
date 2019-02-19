@@ -159,6 +159,14 @@ layout: page
   <div class="hline"></div>
 {% endif %}
 
+{% if site.data.pubs.conference_proceedings.size > 0 %}
+  <h4>Conference Proceedings</h4>
+  {% for pub in site.data.pubs.conference_proceedings %}
+    {% include conference_proceeding.html %}
+  {% endfor %}
+  <div class="hline"></div>
+{% endif %}
+
 {% if site.data.pubs.articles_published_editorial.size > 0 %}
   <h4>Editorials</h4>
   {% for pub in site.data.pubs.articles_published_editorial %}
