@@ -59,7 +59,7 @@ layout: page
 
 <div class="hline"></div>
 
-<h3>TEACHING EXPERIENCE</h3>
+<h3>TEACHING</h3>
 <table style="width:100%">
   <tr>
     <th>Terms</th>
@@ -125,6 +125,14 @@ layout: page
 </ul>
 <div class="hline"></div>
 
+
+<h3>SPONSORED PROJECTS</h3>
+<ul style="margin-left: 8px; margin-right: 8px;">
+  {% for project in site.data.CV.sponsored_projects %}
+  <li><a href="{{project.url}}" target="_blank">{{project.title}}</a> <br> {{ project.role }}, {{ project.amount }}, {{ project.pop }} <br> {{ project.id}} </li>
+  {% endfor %}
+</ul>
+<div class="hline"></div>
 
 <h3>PUBLICATIONS</h3>
 

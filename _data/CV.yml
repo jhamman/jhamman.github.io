@@ -66,16 +66,16 @@ positions_held:
     period: 2007
 
 teaching:
-    - course: "CEE 500: Environmental and Water Resource Seminar"
-      term: Fall 2012, Fall 2013, Fall 2014
-      position: Teaching Assistant
-      university: University of Washington
-      location: Seattle, Washington
-    - course: "CEEGR 371: Water Resource Engineering I"
-      term: Spring 2013
-      position: Adjunct Professor
-      university: Seattle University
-      location: Seattle, Washington
+  - course: "CEE 500: Environmental and Water Resource Seminar"
+    term: Fall 2012, Fall 2013, Fall 2014
+    position: Teaching Assistant
+    university: University of Washington
+    location: Seattle, Washington
+  - course: "CEEGR 371: Water Resource Engineering I"
+    term: Spring 2013
+    position: Adjunct Professor
+    university: Seattle University
+    location: Seattle, Washington
 
 awards:
   - title: Best Student Presentation Award, University of Washington Water Symposium
@@ -99,13 +99,32 @@ memberships:
     url: "http://www.awra.org/"
 
 peer_reviews:
-    - name: Environmental Modelling and Software (ENVSOFT)
-      url: "https://www.journals.elsevier.com/environmental-modelling-and-software/"
-    - name: Journal of Hydrometeorology (JHM)
-      url: "https://www.ametsoc.org/ams/index.cfm/publications/journals/journal-of-hydrometeorology/"
-    - name: Water Resources Research (WRR)
-      url: "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-7973/"
-    - name: Geophysical Model Development (GMD)
-      url: "https://www.geoscientific-model-development.net/"
-    - name: Hydrology and Earth System Sciences (HESS)
-      url: "https://www.hydrol-earth-syst-sci-discuss.net/"
+  - name: Environmental Modelling and Software (ENVSOFT)
+    url: "https://www.journals.elsevier.com/environmental-modelling-and-software/"
+  - name: Journal of Hydrometeorology (JHM)
+    url: "https://www.ametsoc.org/ams/index.cfm/publications/journals/journal-of-hydrometeorology/"
+  - name: Water Resources Research (WRR)
+    url: "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-7973/"
+  - name: Geophysical Model Development (GMD)
+    url: "https://www.geoscientific-model-development.net/"
+  - name: Hydrology and Earth System Sciences (HESS)
+    url: "https://www.hydrol-earth-syst-sci-discuss.net/"
+
+sponsored_projects:
+  - title: "Collaborative Proposal: EarthCube Integration: Pangeo: An Open Source Big Data Climate Science Platform"
+    award_id: NSF OCE 1740633
+    amount: $1.2M ($466,882.00 to NCAR)
+    pop: 2017-09-01 - 2020-08-31
+    role: co-PI
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740633
+  - title: "Community tools for analysis of NASA Earth Observing System Data in the Cloud"
+    award_id: NASA ACCESS 80NSSC18M0156 
+    amount: $1.5M ($300,000 to NCAR)
+    pop: 2018-09-15 – 2020-09-14
+    role: Institutional PI
+    url: https://earthdata.nasa.gov/esds/competitive-programs/access/eos-data-cloud
+    # - title: "The climate sensitivity of Alaskan and Yukon rivers, fish and communities as told through storylines"
+    # award_id: NSF  
+    # amount: $1.5M ($300,000 to NCAR)
+    # pop: 2018-09-15 – 2020-09-14
+    # role: PI

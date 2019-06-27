@@ -8,6 +8,11 @@
 
 # articles_in_review - shown on the publications page
 articles_in_review:
+  - title: "MetSim v2.0.0: A flexible and extensible framework for the estimation and disaggregation of meteorological data"
+    authors: Bennett, A. R., J. Hamman, and B. Nijssen
+    year: 2019
+    journal: "Geoscientific Model Development"
+    status: In review
   - title: "Science needs to rethink how it interacts with big data"
     authors: Hamman, J., N. Robinson, and R. Abernathey
     year: 2019
@@ -40,7 +45,7 @@ articles_published:
     journal: "Climate Services"
     doi: 10.1016/j.cliser.2018.07.002
   - title: "The Variable Infiltration Capacity Model, Version 5 (VIC-5): Infrastructure improvements for new applications and reproducibility"
-    authors: Hamman, J. J., B. Nijssen, T. J. Bohn, D. R. Gergel, and Y. Mao
+    authors: Hamman, J., B. Nijssen, T. J. Bohn, D. R. Gergel, and Y. Mao
     year: 2018
     journal: "Geoscientific Model Development"
     doi: 10.5194/gmd-11-3481-2018
