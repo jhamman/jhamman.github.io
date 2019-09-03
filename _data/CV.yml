@@ -123,8 +123,15 @@ sponsored_projects:
     pop: 2018-09-15 – 2020-09-14
     role: Institutional PI
     url: https://earthdata.nasa.gov/esds/competitive-programs/access/eos-data-cloud
-    # - title: "The climate sensitivity of Alaskan and Yukon rivers, fish and communities as told through storylines"
-    # award_id: NSF  
-    # amount: $1.5M ($300,000 to NCAR)
-    # pop: 2018-09-15 – 2020-09-14
-    # role: PI
+  # - title: "NNA Track 1: Collaborative Research: Climate sensitivity of Alaskan rivers, fish and communities as told through storylines"
+  #   award_id: NSF GEO (ID Pending)
+  #   amount: $3M ($798,952 to NCAR)
+  #   pop: 2020-01-01 – 2024-12-31
+  #   role: co-PI
+  #   url: https://nsf.gov/awardsearch/simpleSearchResult?queryText=Hamman&ActiveAwards=true  # todo: update
+  - title: "EarthCube Data Capabilities: Collaborative Proposal: Jupyter meets the Earth: Enabling discovery in geoscience through interactive computing at scale"
+    award_id: NSF GEO (ID Pending)
+    amount: $1.5M ($244,271 to NCAR)
+    pop: 2019-09-01 – 2022-08-31
+    role: co-PI
+    url: https://nsf.gov/awardsearch/showAward?AWD_ID=1928374&HistoricalAwards=false
