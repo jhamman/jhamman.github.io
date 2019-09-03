@@ -130,7 +130,7 @@ sponsored_projects:
   #   role: co-PI
   #   url: https://nsf.gov/awardsearch/simpleSearchResult?queryText=Hamman&ActiveAwards=true  # todo: update
   - title: "EarthCube Data Capabilities: Collaborative Proposal: Jupyter meets the Earth: Enabling discovery in geoscience through interactive computing at scale"
-    award_id: NSF GEO (ID Pending)
+    award_id: NSF AGS 1928374
     amount: $1.5M ($244,271 to NCAR)
     pop: 2019-09-01 – 2022-08-31
     role: co-PI
