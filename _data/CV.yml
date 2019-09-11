@@ -112,26 +112,32 @@ peer_reviews:
 
 sponsored_projects:
   - title: "Collaborative Proposal: EarthCube Integration: Pangeo: An Open Source Big Data Climate Science Platform"
-    award_id: NSF OCE 1740633
+    award_id: NSF-OCE 1740633
     amount: $1.2M ($466,882.00 to NCAR)
     pop: 2017-09-01 - 2020-08-31
     role: co-PI
     url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740633
   - title: "Community tools for analysis of NASA Earth Observing System Data in the Cloud"
-    award_id: NASA ACCESS 80NSSC18M0156 
+    award_id: NASA-ACCESS 80NSSC18M0156 
     amount: $1.5M ($300,000 to NCAR)
     pop: 2018-09-15 – 2020-09-14
     role: Institutional PI
     url: https://earthdata.nasa.gov/esds/competitive-programs/access/eos-data-cloud
+  - title: "EarthCube Data Capabilities: Collaborative Proposal: Jupyter meets the Earth: Enabling discovery in geoscience through interactive computing at scale"
+    award_id: NSF-GEO-AGS 1928374
+    amount: $1.5M ($244,271 to NCAR)
+    pop: 2019-09-01 – 2022-08-31
+    role: Institutional PI
+    url: https://nsf.gov/awardsearch/showAward?AWD_ID=1928374&HistoricalAwards=false
+  - title: "Convergence Accelerator Phase I (RAISE): Knowledge Open Network Queries for Research (KONQUER)"
+    award_id: NSF-OIA 1937136
+    amount: $1M ($166,459 to NCAR)
+    pop: 2019-09-01 – 2020-05-31
+    role: co-PI
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937136&HistoricalAwards=false
   # - title: "NNA Track 1: Collaborative Research: Climate sensitivity of Alaskan rivers, fish and communities as told through storylines"
-  #   award_id: NSF GEO (ID Pending)
+  #   award_id: NSF-GEO (ID Pending)
   #   amount: $3M ($798,952 to NCAR)
   #   pop: 2020-01-01 – 2024-12-31
   #   role: co-PI
   #   url: https://nsf.gov/awardsearch/simpleSearchResult?queryText=Hamman&ActiveAwards=true  # todo: update
-  - title: "EarthCube Data Capabilities: Collaborative Proposal: Jupyter meets the Earth: Enabling discovery in geoscience through interactive computing at scale"
-    award_id: NSF AGS 1928374
-    amount: $1.5M ($244,271 to NCAR)
-    pop: 2019-09-01 – 2022-08-31
-    role: co-PI
-    url: https://nsf.gov/awardsearch/showAward?AWD_ID=1928374&HistoricalAwards=false
