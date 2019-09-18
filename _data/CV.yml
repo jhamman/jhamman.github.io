@@ -128,16 +128,16 @@ sponsored_projects:
     amount: $1.5M ($244,271 to NCAR)
     pop: 2019-09-01 – 2022-08-31
     role: Institutional PI
-    url: https://nsf.gov/awardsearch/showAward?AWD_ID=1928374&HistoricalAwards=false
+    url: https://nsf.gov/awardsearch/showAward?AWD_ID=1928374
   - title: "Convergence Accelerator Phase I (RAISE): Knowledge Open Network Queries for Research (KONQUER)"
     award_id: NSF-OIA 1937136
     amount: $1M ($166,459 to NCAR)
     pop: 2019-09-01 – 2020-05-31
     role: co-PI
-    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937136&HistoricalAwards=false
-  # - title: "NNA Track 1: Collaborative Research: Climate sensitivity of Alaskan rivers, fish and communities as told through storylines"
-  #   award_id: NSF-GEO (ID Pending)
-  #   amount: $3M ($798,952 to NCAR)
-  #   pop: 2020-01-01 – 2024-12-31
-  #   role: co-PI
-  #   url: https://nsf.gov/awardsearch/simpleSearchResult?queryText=Hamman&ActiveAwards=true  # todo: update
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937136
+  - title: "NNA Track 1: Collaborative Research: The climate impacts on Alaskan and Yukon rivers, fish, and communities as told through co-produced scenarios"
+    award_id: NSF-ICER (1928078)
+    amount: $3M ($798,952 to NCAR)
+    pop: 2020-01-01 – 2024-12-31
+    role: co-PI
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1928078
