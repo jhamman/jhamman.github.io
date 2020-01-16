@@ -8,21 +8,21 @@
 
 # articles_in_review - shown on the publications page
 articles_in_review:
-  - title: "MetSim v2.0.0: A flexible and extensible framework for the estimation and disaggregation of meteorological data"
+  - title: "MetSim: A Python package for estimation anddisaggregation of meteorological data"
     authors: Bennett, A. R., J. Hamman, and B. Nijssen
-    year: 2019
-    journal: "Geoscientific Model Development"
+    year: 2020
+    journal: "Journal of Open Source Software"
     status: In review
-  - title: "Science needs to rethink how it interacts with big data"
-    authors: Hamman, J., N. Robinson, and R. Abernathey
-    year: 2019
-    journal: "Nature"
-    status: In revision
-  - title: "Open Source Frameworks for Earth Data Science are Blossoming"
-    authors: Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese
-    year: 2019
-    journal: "EOS"
-    status: In revision
+  # - title: "Science needs to rethink how it interacts with big data"
+  #   authors: Hamman, J., N. Robinson, and R. Abernathey
+  #   year: 2020
+  #   journal: "PNAS"
+  #   status: In revision
+  # - title: "Open Source Frameworks for Earth Data Science are Blossoming"
+  #   authors: Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese
+  #   year: 2019
+  #   journal: "EOS"
+  #   status: In revision
 
 #. - shown on the publications page
 # articles_accepted:
