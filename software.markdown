@@ -10,18 +10,18 @@ header-img: "img/GNAM_2197.jpg"
 
 #### Xarray
 
-[Xarray](http://xarray.pydata.org) is the fusion of Python's Pandas, Numpy, and netCDF4 packages. It offers unparalleled computational ability on labeled N-dimensional arrays. I have been contributing to the xarray project since May 2014.
+[Xarray](http://xarray.pydata.org) is the fusion of Python's Pandas, Numpy, and netCDF4 packages. It offers unparalleled computational ability on labeled N-dimensional arrays. I have been contributing to the Xarray project since May 2014.
 
 #### Dask
-[Dask](https://dask.org/) is Python a library for scalable computing with dynamic task scheduling. As part of my work with Pangeo and xarray, I have been contributing to the Dask ecosystem. In particular, I have worked extensively on [Dask-jobqueue](https://jobqueue.dask.org/en/latest/), a package that helps deploy Dask on HPC systems. 
+[Dask](https://dask.org/) is Python a library for scalable computing with dynamic task scheduling. As part of my work with Pangeo and Xarray, I have been contributing to the Dask ecosystem. In particular, I have worked extensively on Dask deployment utilities like [Dask-jobqueue](https://jobqueue.dask.org/en/latest/) and [Dask-Kubernetes](https://kubernetes.dask.org/en/latest/).
 
 #### CTSM
 
-[The Community Terrestrial Systems Model (CTSM)](https://github.com/ESCOMP/ctsm) project is an effort to unify the land modeling efforts across NCAR and more broadly, across the terrestrial systems modeling community. Work is currently underway to combine the development efforts and software functionality of NCAR's [Community Land Model (CLM)](http://www.cesm.ucar.edu/models/clm/), the [Noah-MP](https://www.jsg.utexas.edu/noah-mp) land surface model, and the [Structure for Unifying Multiple Modeling Alternatives (SUMMA)](http://summa.readthedocs.io/en/latest/). I am contributing to the development of CTSM's land-atmosphere coupling infrastructure on a project called [LILAC](https://github.com/NCAR/lilac).
+[The Community Terrestrial Systems Model (CTSM)](https://github.com/ESCOMP/ctsm) project is an effort to unify the land modeling efforts across NCAR and more broadly, across the terrestrial systems modeling community. Work is currently underway to combine the development efforts and software functionality of NCAR's [Community Land Model (CLM)](http://www.cesm.ucar.edu/models/clm/), the [Noah-MP](https://www.jsg.utexas.edu/noah-mp) land surface model, and the [Structure for Unifying Multiple Modeling Alternatives (SUMMA)](http://summa.readthedocs.io/en/latest/). I previously contributed to the development of CTSM's land-atmosphere coupling infrastructure on a project called [LILAC](https://github.com/NCAR/lilac).
 
 #### VIC
 
-From 2012-2016, I was part of the core development team working on the [Variable Infiltration Capacity](http://vic.readthedocs.org) macro-scale land surface hydrology model. During this time, I acted as the VIC model administrator, responsible for the [VIC github](https://github.com/UW-Hydro/VIC) repository, making releases, and issuing bug fixes. I continue to contribute to VIC development.
+From 2012-2016, I was part of the core development team working on the [Variable Infiltration Capacity](http://vic.readthedocs.org) macro-scale land surface hydrology model. During this time, I acted as the VIC model administrator, responsible for the [VIC github](https://github.com/UW-Hydro/VIC) repository, making releases, and issuing bug fixes.
 
 #### RVIC
 
