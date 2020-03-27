@@ -1,34 +1,27 @@
-# arcticles_in_prep - shown on the publications page
-# articles_in_prep:
-#   - title: "On the relationship between Arctic winter precipitation and minimum sea ice extent"
-#     authors: Hamman, J., B. Nijssen, J. Cassano, W. Maslowski, and A. Roberts
-#     year: 2016
-#     journal: "Journal of Geophysical Research: Atmospheres"
-#     status: In preparation
-
 # articles_in_review - shown on the publications page
 articles_in_review:
-  - title: "MetSim: A Python package for estimation anddisaggregation of meteorological data"
-    authors: Bennett, A. R., J. Hamman, and B. Nijssen
+  - title: "Seven Principles for Effective Scientific Big-Data
+Systems"
+    authors: Hamman, J., N. Robinson, and R. Abernathey
     year: 2020
-    journal: "Journal of Open Source Software"
+    journal: "PNAS"
     status: In review
-  # - title: "Science needs to rethink how it interacts with big data"
-  #   authors: Hamman, J., N. Robinson, and R. Abernathey
-  #   year: 2020
-  #   journal: "PNAS"
-  #   status: In revision
-  # - title: "Open Source Frameworks for Earth Data Science are Blossoming"
-  #   authors: Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese
-  #   year: 2019
-  #   journal: "EOS"
-  #   status: In revision
+  - title: "Open Source Frameworks for Earth Data Science are Blossoming"
+    authors: Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese
+    year: 2019
+    journal: "EOS"
+    status: In revision
 
 #. - shown on the publications page
 # articles_accepted:
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "MetSim: A Python package for estimation and disaggregation of meteorological data"
+    authors: Bennett, A., J. Hamman, and B. Nijssen
+    year: 2020
+    journal: "Journal of Open Source Software"
+    doi: 10.21105/joss.02042
   - title: "How do modeling decisions affect the spread among hydrologic climate change projections?"
     authors: Chegwidden, O., B. Nijssen, D. Rupp, J. Arnold, M. Clark, J. Hamman, S.C. Kao, Y. Mao, P. Mote, M. Pan, E. Pytlak, and M. Xiao
     year: 2019

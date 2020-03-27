@@ -136,13 +136,6 @@ layout: page
 
 <h3>PUBLICATIONS</h3>
 
-{% if site.data.pubs.articles_in_prep.size > 0 %}
-  <h4>In preparation</h4>
-  {% for pub in site.data.pubs.articles_in_prep %}
-    {% include article_in_prep.html %}
-  {% endfor %}
-  <div class="hline"></div>
-{% endif %}
 {% if site.data.pubs.articles_in_review.size > 0 %}
   <h4>In review / in revision</h4>
   {% for pub in site.data.pubs.articles_in_review %}
