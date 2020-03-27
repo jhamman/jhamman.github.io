@@ -2,16 +2,14 @@ research_interests:
   - Hydrologic Modeling
   - Climate Modeling
   - Land-Atmosphere Interactions
-  - Climate Variability
   - Climate Change Impacts
-  - Water Resources Management
-  - Big-data Science
+  - Big-data Informatics
+  - Climate and Carbon Policy
 
 current_research:
-  - Quantitative hydrologic storylines [at NCAR]
-  - Community Terrestrial System Model [at NCAR]
   - Pangeo - An Open Source Big Data Climate Science Platform [at NCAR]
-  - Regional Arctic System Model (RASM) [at UW]
+  - Community Terrestrial System Model [at NCAR]
+  - Regional Arctic System Model (RASM) [at NCAR]
 
 education:
   - school: University of Washington
@@ -36,6 +34,10 @@ education:
     emphasis: Water Resources and Geotechnical Engineering
 
 positions_held:
+  - position: Director of Technology
+    employer: CarbonPlan
+    location: Seattle, Washington
+    period: 2020 - present
   - position: Project Scientist
     employer: Climate and Global Dynamics Laboratory, National Center for Atmospheric Research
     location: Boulder, Colorado
