@@ -6,11 +6,13 @@ Systems"
     year: 2020
     journal: "PNAS"
     status: In review
-  - title: "Open Source Frameworks for Earth Data Science are Blossoming"
-    authors: Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese
-    year: 2019
-    journal: "EOS"
-    status: In revision
+    preprint: https://arxiv.org/abs/1908.03356
+#   - title: "Open Source Frameworks for Earth Data Science are Blossoming"
+#     authors: Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese
+#     year: 2019
+#     journal: "EOS"
+#     status: In revision
+#     preprint:
 
 #. - shown on the publications page
 # articles_accepted:

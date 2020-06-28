@@ -5,7 +5,7 @@ description: "A bit about me"
 header-img: "img/about-bg.jpg"
 ---
 
-I am a computational hydroclimatologist. I have a Ph.D. in Civil and Environmental Engineering from the University of Washington.  I'm currently a scientist at the [National Center for Atmospheric Research](https://ncar.ucar.edu/) in the [Terrestrial Sciences Section (TSS)](http://www.cgd.ucar.edu/tss/) (part of the [Climate and Global Dynamics Laboratory](http://www.cgd.ucar.edu/)). My research focuses on developing and evaluating computational hydrologic models to better understand the sources of uncertainty in future hydrologic projections.  I am an active developer of a number of open-source Python, C, and Fortran [software](/software) projects. I also am available to do a bit of [consulting](/consulting).
+I am a climate scientist and engineer. I am the technology director at [CarbonPlan](https://carbonplan.org), a non-profit working on data science and policy issues surrounding carbon removal and climate solutions. I also hold a position in the the [Climate and Global Dynamics Laboratory](https://www.cgd.ucar.edu/) at the [National Center for Atmospheric Research](https://ncar.ucar.edu/). I have a Ph.D. in [Civil and Environmental Engineering from the University of Washington](https://www.ce.washington.edu/).  I am an active developer of a number of open-source Python, C, and Fortran [software](/software) projects. I also am available to do a bit of [consulting](/consulting).
 
 -----
 

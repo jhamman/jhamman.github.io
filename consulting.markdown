@@ -10,5 +10,5 @@ I provide consulting services in a broad range of science and engineering areas.
 - Hydrology
 - Water Resource Engineering
 - Climatology and Climate Change Impacts
-- Data Science Software Development
+- Data Science and Software Development
 - Expert Testimony and Services
