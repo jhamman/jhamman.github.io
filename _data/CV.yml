@@ -91,14 +91,18 @@ licenses:
     date: 2013-present
 
 memberships:
+  - name: Pangeo Steering Council
+    url: "https://pangeo.io"
+  - name: NOAA Data Archive and Access Requirements Working Group (DAARWG)
+    url: "https://www.sab.noaa.gov/WorkingGroups/StandingWorkingGroups.aspx#1031912-data-archive-and-access-requirements-working-group-daarwg"
   - name: American Geophysical Union (AGU)
     url: "http://www.agu.org/"
+  - name: European Geophysical Union (AGU)
+    url: https://www.egu.eu/
   - name: American Meteorology Association (AMS)
     url: "https://www2.ametsoc.org/"
   - name: American Society for Civil Engineers (ASCE)
     url: "http://www.asce.org/"
-  - name: American Water Resources Association (AWRA)
-    url: "http://www.awra.org/"
 
 peer_reviews:
   - name: Environmental Modelling and Software (ENVSOFT)
@@ -149,3 +153,9 @@ sponsored_projects:
     pop: 2020-07-01 – 2021-06-30
     role: PI
     url: https://chanzuckerberg.com/eoss/proposals/xarray-multidimensional-labeled-arrays-and-datasets-in-python/
+  - title: "Pangeo ML: Open Source Tools and Pipelines for Scalable Machine Learning Using NASA Earth Observation Data"
+    award_id: 19-ACCESS19-0049
+    amount: $1.5M (at NCAR/CarbonPlan)
+    pop: 2020-12-01 – 2023-11-30
+    role: PI
+    url: https://earthdata.nasa.gov/esds/competitive-programs/access/pangeo-ml
