@@ -155,7 +155,7 @@ sponsored_projects:
     url: https://chanzuckerberg.com/eoss/proposals/xarray-multidimensional-labeled-arrays-and-datasets-in-python/
   - title: "Pangeo ML: Open Source Tools and Pipelines for Scalable Machine Learning Using NASA Earth Observation Data"
     award_id: 19-ACCESS19-0049
-    amount: $1.5M (at NCAR/CarbonPlan)
+    amount: $1.5M ($561,670 to CarbonPlan)
     pop: 2020-12-01 – 2023-11-30
     role: PI
     url: https://earthdata.nasa.gov/esds/competitive-programs/access/pangeo-ml
