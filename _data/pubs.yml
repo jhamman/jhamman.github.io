@@ -5,7 +5,7 @@ Systems"
     authors: Hamman, J., N. Robinson, and R. Abernathey
     year: 2020
     journal: "PNAS"
-    status: In review
+    status: In revision
     preprint: https://arxiv.org/abs/1908.03356
 #   - title: "Open Source Frameworks for Earth Data Science are Blossoming"
 #     authors: Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese
@@ -13,6 +13,12 @@ Systems"
 #     journal: "EOS"
 #     status: In revision
 #     preprint:
+  - title: "Cloud-Native Repositories for Big Scientific Data"
+    authors: Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. Hamman, N. Henderson, C. Lepore, T.A. McCaie, N.H. Robinson, and R.P. Signell
+    year: 2020
+    journal: "Computing in Science and Engineering"
+    status: In review
+    preprint:
 
 #. - shown on the publications page
 # articles_accepted:
