@@ -13,15 +13,15 @@ Systems"
 #     journal: "EOS"
 #     status: In revision
 #     preprint:
-  - title: "Cloud-Native Repositories for Big Scientific Data"
-    authors: Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. Hamman, N. Henderson, C. Lepore, T.A. McCaie, N.H. Robinson, and R.P. Signell
-    year: 2020
-    journal: "Computing in Science and Engineering"
-    status: In review
-    preprint: https://doi.org/10.22541/au.160443768.88917719/v1
 
 #. - shown on the publications page
-# articles_accepted:
+articles_accepted:
+  - title: "Cloud-Native Repositories for Big Scientific Data"
+    authors: Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. Hamman, N. Henderson, C. Lepore, T.A. McCaie, N.H. Robinson, and R.P. Signell
+    year: 2021
+    journal: "Computing in Science and Engineering"
+    status: In press
+    preprint: https://doi.org/10.22541/au.160443768.88917719/v1
 
 # articles_published - shown on the publications page
 articles_published:
