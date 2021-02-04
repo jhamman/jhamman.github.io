@@ -20,3 +20,6 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 plugins: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
+
+include: [".well-known"]
+permalink: .well-known/keybase.txt

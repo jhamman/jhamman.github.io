@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jhamman
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joehamman.com
+  * I am jhamman (https://keybase.io/jhamman) on keybase.
+  * I have a public key ASCa9ggHDxnpiQiIQJaQu7h3f4z4AwIq9XMtim36XN7Jhwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209af608070f19e9890888409690bbb8777f8cf803022af5732d8a6dfa5cdec9870a",
+      "host": "keybase.io",
+      "kid": "01209af608070f19e9890888409690bbb8777f8cf803022af5732d8a6dfa5cdec9870a",
+      "uid": "33a10553d41f9ee9f378798d62fe9119",
+      "username": "jhamman"
+    },
+    "merkle_root": {
+      "ctime": 1612470232,
+      "hash": "382306ef6de35defd23ff2f687f5f4313f4934b9348ee5584a011ed501de47c80b4f8d04a7464355a4f7c38ec4ae0f86b74070dcd5f4aec7b8a3cdd6212024e7",
+      "hash_meta": "a38c70d66f98e30e9d617052c60b4ca75354e3c70610d3a176d1397b8b4830a0",
+      "seqno": 19012365
+    },
+    "service": {
+      "entropy": "ERua/pWwQB/IB7Vu42Kv07O4",
+      "hostname": "joehamman.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1612470302,
+  "expire_in": 504576000,
+  "prev": "56a4ccf2a4c77109afeac85280855de6bc8a3cd099b5bd1bbde7bfc9346c2475",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmvYIBw8Z6YkIiECWkLu4d3+M+AMCKvVzLYpt+lzeyYcKp3BheWxvYWTESpcCGMQgVqTM8qTHcQmv6shSgIVd5ryKPNCZtb0bvee/yTRsJHXEIJtA+zxAH12U5OarwrNEeSu1ENBFG/tFN6XJMx7B8vFjAgHCo3NpZ8RA9FPUQx13GW4XEDaPMEgzsdAz3onG3q+5aLuRlyNB830yZqBd5zgcOS+88SU3PKDN2tuq1i+cK5H19afUpbaeC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPEdo25dFsExUpeGwt1cfNDAZZ2yqxoC2+fMj65XVJ3Jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jhamman
+
+==================================================================
