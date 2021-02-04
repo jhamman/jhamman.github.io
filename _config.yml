@@ -7,7 +7,7 @@ description: "Joe Hamman"
 url: "http://joehamman.com/"
 twitter_username: HammanHydro
 github_username:  jhamman
-facebook_username:  joehamman
+# facebook_username:  joehamman
 
 # Build settings
 markdown: kramdown
@@ -22,4 +22,4 @@ paginate: 5
 paginate_path: "page:num"
 
 include: [".well-known"]
-permalink: .well-known/keybase.txt
+# permalink: .well-known/keybase.txt
