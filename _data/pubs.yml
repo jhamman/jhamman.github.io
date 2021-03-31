@@ -23,7 +23,7 @@ articles_published:
     authors: Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. Hamman, N. Henderson, C. Lepore, T.A. McCaie, N.H. Robinson, and R.P. Signell
     year: 2021
     journal: "Computing in Science and Engineering"
-    doi: 10.22541/au.160443768.88917719/v1
+    doi: 10.1109/MCSE.2021.3059437
   - title: "MetSim: A Python package for estimation and disaggregation of meteorological data"
     authors: Bennett, A., J. Hamman, and B. Nijssen
     year: 2020
