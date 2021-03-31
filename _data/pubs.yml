@@ -15,16 +15,15 @@ Systems"
 #     preprint:
 
 #. - shown on the publications page
-articles_accepted:
+# articles_accepted:
+
+# articles_published - shown on the publications page
+articles_published:
   - title: "Cloud-Native Repositories for Big Scientific Data"
     authors: Abernathey, R.P., T. Augspurger, A. Banihirwe, C.C. Blackmon-Luca, T.J. Crone, C.L. Gentemann, J. Hamman, N. Henderson, C. Lepore, T.A. McCaie, N.H. Robinson, and R.P. Signell
     year: 2021
     journal: "Computing in Science and Engineering"
-    status: In press
-    preprint: https://doi.org/10.22541/au.160443768.88917719/v1
-
-# articles_published - shown on the publications page
-articles_published:
+    doi: 10.22541/au.160443768.88917719/v1
   - title: "MetSim: A Python package for estimation and disaggregation of meteorological data"
     authors: Bennett, A., J. Hamman, and B. Nijssen
     year: 2020
