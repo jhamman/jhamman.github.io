@@ -1,5 +1,11 @@
 # articles_in_review - shown on the publications page
 articles_in_review:
+  - title: "Systematic over-crediting in California's forest carbon offsets program"
+    authors: Badgley, G., J. Freeman, J. Hamman, B. Haya, A. Trugman, W. Anderegg, and D. Cullenward
+    year: 2021
+    journal: "PNAS"
+    status: In review
+    preprint: https://doi.org/10.1101/2021.04.28.441870
   - title: "Seven Principles for Effective Scientific Big-Data
 Systems"
     authors: Hamman, J., N. Robinson, and R. Abernathey
@@ -100,6 +106,11 @@ articles_published_editorial:
     journal: Natural Hazards Observer, XXXVII (1)
 
 datasets_published:
+  - title: "Systematic over-crediting in California's forest carbon offsets program (Version 1.0) [Data set]"
+    authors: Badgley, G., J. Freeman, J. Hamman, B. Haya, A. Trugman, W. Anderegg, and D. Cullenward
+    year: 2021
+    journal: Zenodo
+    doi: 10.5281/zenodo.4630711
   - title: "The Coastal Streamflow Flux in the Regional Arctic System Model [Data set]"
     authors: Hamman, J., B. Nijssen, A. Roberts, A. Craig, W. Maslowski, and R. Osinski.
     year: 2017
