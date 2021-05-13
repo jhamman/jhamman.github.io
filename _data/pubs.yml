@@ -5,7 +5,7 @@ articles_in_review:
     year: 2021
     # journal: "Science"
     status: In review
-    preprint: 10.1101/2021.05.11.443688
+    preprint: https://doi.org/10.1101/2021.05.11.443688
   - title: "Systematic over-crediting in California's forest carbon offsets program"
     authors: Badgley, G., J. Freeman, J. Hamman, B. Haya, A. Trugman, W. Anderegg, and D. Cullenward
     year: 2021
