@@ -1,5 +1,10 @@
 # articles_in_review - shown on the publications page
 articles_in_review:
+  - title: "A statistical downscaling framework for the production and testing of large ensembles of climate projections"
+    authors: Gutmann, E.D., J. Hamman, M.P. Clark, T. Eidhammer, A.W. Wood, J.R. Arnold
+    year: 2021
+    # journal: "Science"
+    status: In review
   - title: "Climate risks to carbon sequestration in US forests"
     authors: Anderegg, W.*, O. Chegwidden*, G. Badgley, A. Trugman, D. Cullenward, J. Abatzoglou, J. Hicke, J. Freeman, J. Hamman
     year: 2021
