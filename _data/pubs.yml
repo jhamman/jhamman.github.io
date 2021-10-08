@@ -4,6 +4,7 @@ articles_in_review:
     authors: Stern, C., R. Abernathey, J. Hamman, R. Wegener, C. Lepore, and S. Harkins
     year: 2021
     status: In review
+    preprint: https://doi.org/10.31223/X5462G
   - title: "An updated vegetation dataset increases projected runoff changes in the Colorado River Basin"
     authors: Currier, W., A. Wood, N. Mizukami, B. Nijssen, J. Hamman, and E. Gutmann
     year: 2021
@@ -20,7 +21,7 @@ articles_in_review:
   - title: "Systematic over-crediting in California's forest carbon offsets program"
     authors: Badgley, G., J. Freeman, J. Hamman, B. Haya, A. Trugman, W. Anderegg, and D. Cullenward
     year: 2021
-    status: In revision
+    status: Accpeted
     preprint: https://doi.org/10.1101/2021.04.28.441870
   - title: "Seven Principles for Effective Scientific Big-Data
 Systems"
