@@ -18,11 +18,6 @@ articles_in_review:
     year: 2021
     status: In review
     preprint: https://doi.org/10.1101/2021.05.11.443688
-  - title: "Systematic over-crediting in California's forest carbon offsets program"
-    authors: Badgley, G., J. Freeman, J. Hamman, B. Haya, A. Trugman, W. Anderegg, and D. Cullenward
-    year: 2021
-    status: Accpeted
-    preprint: https://doi.org/10.1101/2021.04.28.441870
   - title: "Seven Principles for Effective Scientific Big-Data
 Systems"
     authors: Hamman, J., N. Robinson, and R. Abernathey
@@ -37,8 +32,12 @@ Systems"
 #     preprint:
 
 #. - shown on the publications page
-# articles_accepted:
-
+articles_accepted:
+  - title: "Systematic over-crediting in California's forest carbon offsets program"
+    authors: Badgley, G., J. Freeman, J. Hamman, B. Haya, A. Trugman, W. Anderegg, and D. Cullenward
+    year: 2021
+    status: Accpeted
+    preprint: https://doi.org/10.1101/2021.04.28.441870
 # articles_published - shown on the publications page
 articles_published:
   - title: "Cloud-Native Repositories for Big Scientific Data"

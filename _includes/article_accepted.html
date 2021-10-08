@@ -1,1 +1,1 @@
-<p>{{ pub.authors }}, {{ pub.year }}: {{ pub.title }}. <span class="journal">{{ pub.journal }}</span>, <span class="pubstatus">{{ pub.status }}</span>.</p>
+<p>{{ pub.authors }}, {{ pub.year }}: {{ pub.title }}. <span class="pubstatus">{{ pub.status }}</span>{% if pub.preprint %} (<a href="{{ pub.preprint }}">preprint</a>){% endif %}.</p>
