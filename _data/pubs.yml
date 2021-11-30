@@ -4,11 +4,6 @@ articles_in_review:
     authors: Mizukami, N., A. Newman, J. Littell, T. Giambelluca, A. Wood, E. Gutmann, B. Nijssen, J. Hamman, D. Gergel, M. Clark, and J. Arnold
     year: 2021
     status: In review
-  - title: "Pangeo Forge: Crowdsourcing Analysis-Ready, Cloud Optimized Data Production"
-    authors: Stern, C., R. Abernathey, J. Hamman, R. Wegener, C. Lepore, and S. Harkins
-    year: 2021
-    status: In revision
-    preprint: https://doi.org/10.31223/X5462G
   - title: "An updated vegetation dataset increases projected runoff changes in the Colorado River Basin"
     authors: Currier, W., A. Wood, N. Mizukami, B. Nijssen, J. Hamman, and E. Gutmann
     year: 2021
@@ -36,7 +31,12 @@ Systems"
 #     preprint:
 
 #. - shown on the publications page
-# articles_accepted:
+articles_accepted:
+  - title: "Pangeo Forge: Crowdsourcing Analysis-Ready, Cloud Optimized Data Production"
+    authors: Stern, C., R. Abernathey, J. Hamman, R. Wegener, C. Lepore, and S. Harkins
+    year: 2021
+    status: Accepted
+    preprint: https://doi.org/10.31223/X5462G
 
 # articles_published - shown on the publications page
 articles_published:
