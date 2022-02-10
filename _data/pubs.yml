@@ -7,7 +7,7 @@ articles_in_review:
   - title: "An updated vegetation dataset increases projected runoff changes in the Colorado River Basin"
     authors: Currier, W., A. Wood, N. Mizukami, B. Nijssen, J. Hamman, and E. Gutmann
     year: 2021
-    status: In review
+    status: In revision
   - title: "A statistical downscaling framework for the production and testing of large ensembles of climate projections"
     authors: Gutmann, E.D., J. Hamman, M.P. Clark, T. Eidhammer, A.W. Wood, and J.R. Arnold
     year: 2021
@@ -15,10 +15,9 @@ articles_in_review:
   - title: "Climate risks to carbon sequestration in US forests"
     authors: Anderegg, W.*, O. Chegwidden*, G. Badgley, A. Trugman, D. Cullenward, J. Abatzoglou, J. Hicke, J. Freeman, and J. Hamman
     year: 2021
-    status: In review
+    status: In revision
     preprint: https://doi.org/10.1101/2021.05.11.443688
-  - title: "Seven Principles for Effective Scientific Big-Data
-Systems"
+  - title: "Seven Principles for Effective Scientific Big-Data Systems"
     authors: Hamman, J., N. Robinson, and R. Abernathey
     year: 2020
     status: In revision
@@ -31,15 +30,19 @@ Systems"
 #     preprint:
 
 #. - shown on the publications page
-articles_accepted:
-  - title: "Pangeo Forge: Crowdsourcing Analysis-Ready, Cloud Optimized Data Production"
-    authors: Stern, C., R. Abernathey, J. Hamman, R. Wegener, C. Lepore, and S. Harkins
-    year: 2021
-    status: Accepted
-    preprint: https://doi.org/10.31223/X5462G
+# articles_accepted:
+  # - title: "Pangeo Forge: Crowdsourcing Analysis-Ready, Cloud Optimized Data Production"
+  #   authors: Stern, C., R. Abernathey, J. Hamman, R. Wegener, C. Lepore, and S. Harkins
+  #   year: 2021
+  #   status: Accepted
+  #   preprint: https://doi.org/10.31223/X5462G
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Pangeo Forge: Crowdsourcing Analysis-Ready, Cloud Optimized Data Production"
+    authors: Stern, C., R. Abernathey, J. Hamman, R. Wegener, C. Lepore, S. Harkins and A. Merose
+    year: 2022
+    preprint: https://doi.org/10.3389/fclim.2021.782909
   - title: "Systematic over-crediting in California's forest carbon offsets program"
     authors: Badgley, G., J. Freeman, J. Hamman, B. Haya, A. Trugman, W. Anderegg, and D. Cullenward
     year: 2021
