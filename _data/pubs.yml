@@ -47,7 +47,8 @@ articles_published:
   - title: "Pangeo Forge: Crowdsourcing Analysis-Ready, Cloud Optimized Data Production"
     authors: Stern, C., R. Abernathey, J. Hamman, R. Wegener, C. Lepore, S. Harkins and A. Merose
     year: 2022
-    preprint: https://doi.org/10.3389/fclim.2021.782909
+    journal: Frontiers in Climate
+    doi: https://doi.org/10.3389/fclim.2021.782909
   - title: "Systematic over-crediting in California's forest carbon offsets program"
     authors: Badgley, G., J. Freeman, J. Hamman, B. Haya, A. Trugman, W. Anderegg, and D. Cullenward
     year: 2021
