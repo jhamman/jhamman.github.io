@@ -1,5 +1,10 @@
 # articles_in_review - shown on the publications page
 articles_in_review:
+  - title: "California’s forest carbon offsets buffer pool is severely undercapitalized"
+    authors: Badgley, G., F. Chay, O.S. Chegwidden, J. Hamman, J. Freeman, and D. Cullenward
+    year: 2022
+    status: In review
+    preprint: https://doi.org/10.1101/2022.04.27.488938
   - title: "Moving land models towards actionable science: A novel application of the Community Terrestrial Systems Model across Alaska and the Yukon River Basin"
     authors: Cheng, Y. A. Newman, K.N. Musselman, S. Swenson, D. Lawrence, J. Hamman, K. Dagon, and D. Kennedy.
     year: 2022
