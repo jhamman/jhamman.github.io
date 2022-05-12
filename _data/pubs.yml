@@ -40,15 +40,15 @@ articles_in_review:
 #     preprint:
 
 #. - shown on the publications page
-articles_accepted:
-  - title: "Climate risks to carbon sequestration in US forests"
-    authors: Anderegg, W.*, O. Chegwidden*, G. Badgley, A. Trugman, D. Cullenward, J. Abatzoglou, J. Hicke, J. Freeman, and J. Hamman
-    year: 2022
-    status: Accepted
-    preprint: https://doi.org/10.1101/2021.05.11.443688
+# articles_accepted:
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Climate risks to carbon sequestration in US forests"
+    authors: Anderegg, W.*, O. Chegwidden*, G. Badgley, A. Trugman, D. Cullenward, J. Abatzoglou, J. Hicke, J. Freeman, and J. Hamman
+    year: 2022
+    journal: Ecology Letters
+    doi: https://doi.org/10.1111/ele.14018
   - title: "Pangeo Forge: Crowdsourcing Analysis-Ready, Cloud Optimized Data Production"
     authors: Stern, C., R. Abernathey, J. Hamman, R. Wegener, C. Lepore, S. Harkins and A. Merose
     year: 2022
