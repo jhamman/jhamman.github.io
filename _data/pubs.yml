@@ -14,10 +14,6 @@ articles_in_review:
     authors: Currier, W., A. Wood, N. Mizukami, B. Nijssen, J. Hamman, and E. Gutmann
     year: 2021
     status: In revision
-  - title: "A statistical downscaling framework for the production and testing of large ensembles of climate projections"
-    authors: Gutmann, E.D., J. Hamman, M.P. Clark, T. Eidhammer, A.W. Wood, and J.R. Arnold
-    year: 2021
-    status: In revision
   - title: "Seven Principles for Effective Scientific Big-Data Systems"
     authors: Hamman, J., N. Robinson, and R. Abernathey
     year: 2020
@@ -37,6 +33,10 @@ articles_accepted:
     year: 2022
     status: Accepted
     preprint: https://doi.org/10.1101/2022.04.27.488938
+  - title: "A statistical downscaling framework for the production and testing of large ensembles of climate projections"
+    authors: Gutmann, E.D., J. Hamman, M.P. Clark, T. Eidhammer, A.W. Wood, and J.R. Arnold
+    year: 2021
+    status: Accepted
   - title: "New projections of 21st Century Climate and Hydrology for Alaska and Hawaiʻi"
     authors: Mizukami, N., A. Newman, J. Littell, T. Giambelluca, A. Wood, E. Gutmann, B. Nijssen, J. Hamman, D. Gergel, M. Clark, and J. Arnold
     year: 2021
