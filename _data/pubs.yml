@@ -3,7 +3,7 @@ articles_in_review:
   - title: "Moving land models towards actionable science: A novel application of the Community Terrestrial Systems Model across Alaska and the Yukon River Basin"
     authors: Cheng, Y. A. Newman, K.N. Musselman, S. Swenson, D. Lawrence, J. Hamman, K. Dagon, and D. Kennedy.
     year: 2022
-    status: In review
+    status: In revision
     preprint: https://doi.org/10.1002/essoar.10510588.1
   - title: "Economic and biophysical limits to seaweed-based climate solutions"
     authors: DeAngelo, J., B. Saenz , I. Arzeno-Soltero , C. Frieder , M. Long , J. Hamman , K. Davis , and S. Davis
@@ -28,11 +28,6 @@ articles_in_review:
 
 #. - shown on the publications page
 articles_accepted:
-  - title: "California’s forest carbon offsets buffer pool is severely undercapitalized"
-    authors: Badgley, G., F. Chay, O.S. Chegwidden, J. Hamman, J. Freeman, and D. Cullenward
-    year: 2022
-    status: Accepted
-    preprint: https://doi.org/10.1101/2022.04.27.488938
   - title: "A statistical downscaling framework for the production and testing of large ensembles of climate projections"
     authors: Gutmann, E.D., J. Hamman, M.P. Clark, T. Eidhammer, A.W. Wood, and J.R. Arnold
     year: 2021
@@ -44,6 +39,11 @@ articles_accepted:
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "California’s forest carbon offsets buffer pool is severely undercapitalized"
+    authors: Badgley, G., F. Chay, O.S. Chegwidden, J. Hamman, J. Freeman, and D. Cullenward
+    year: 2022
+    journal: Frontiers in Forests and Global Change
+    doi: https://doi.org/10.3389/ffgc.2022.930426
   - title: "Climate risks to carbon sequestration in US forests"
     authors: Anderegg, W.*, O. Chegwidden*, G. Badgley, A. Trugman, D. Cullenward, J. Abatzoglou, J. Hicke, J. Freeman, and J. Hamman
     year: 2022
