@@ -5,7 +5,7 @@ description: "A bit about me"
 header-img: "img/about-bg.jpg"
 ---
 
-I am a climate scientist and engineer. I'm a project scientist in the [Climate and Global Dynamics Laboratory](https://www.cgd.ucar.edu/) at the [National Center for Atmospheric Research](https://ncar.ucar.edu/). Previously, I was a co-founder and the technology director at [CarbonPlan](https://carbonplan.org), a non-profit working on data science and policy issues surrounding carbon removal and climate solutions. I have a Ph.D. in [Civil and Environmental Engineering from the University of Washington](https://www.ce.washington.edu/).  I am an active developer of a number of open-source Python, C, and Fortran [software](/software) projects. I also am available to do a bit of [consulting](/consulting).
+I am a climate scientist and engineer. I am an active developer of a number of open-source Python, C, and Fortran [software](/software) projects. Previously, I was a co-founder and the Technology Director at [CarbonPlan](https://carbonplan.org), a non-profit working on data science and policy issues surrounding carbon removal and climate solutions, and a Project Scientist in the [Climate and Global Dynamics Laboratory](https://www.cgd.ucar.edu/) at the [National Center for Atmospheric Research](https://ncar.ucar.edu/). I'm a licensed Profession Engineer in Washington State and I have a Ph.D. in [Civil and Environmental Engineering from the University of Washington](https://www.ce.washington.edu/).
 
 -----
 
