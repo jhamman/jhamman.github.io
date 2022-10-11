@@ -28,7 +28,11 @@ education:
     emphasis: Water Resources and Geotechnical Engineering
 
 positions_held:
-  - position: Director of Technology
+  - position: Co-founder and CTO
+    employer: Earthmover
+    location: Seattle, Washington
+    period: 2022 - current
+  - position: Co-founder and Director of Technology
     employer: CarbonPlan
     location: Seattle, Washington
     period: 2020 - 2022
@@ -49,7 +53,7 @@ positions_held:
     location: Seattle, Washington
     period: 2010 - 2014
   - position: Adjunct Professor
-    employer: Deptartment of Civil and Environmental Engineering, Seattle University
+    employer: Department of Civil and Environmental Engineering, Seattle University
     location: Seattle, Washington
     period: 2013
   - position: Civil Engineer Designer
@@ -82,7 +86,7 @@ awards:
 licenses:
   - title: Professional Engineer in the State of Washington
     number: 50453
-    date: 2013-present
+    date: 2013 - present
 
 memberships:
   - name: Pangeo Steering Council
