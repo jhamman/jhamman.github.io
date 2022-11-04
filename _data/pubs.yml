@@ -5,11 +5,6 @@ articles_in_review:
     year: 2022
     status: In revision
     preprint: https://doi.org/10.1002/essoar.10510588.1
-  - title: "Economic and biophysical limits to seaweed-based climate solutions"
-    authors: DeAngelo, J., B. Saenz , I. Arzeno-Soltero , C. Frieder , M. Long , J. Hamman , K. Davis , and S. Davis
-    year: 2022
-    status: In revision
-    preprint: https://doi.org/10.31223/X5PG9V
   - title: "An updated vegetation dataset increases projected runoff changes in the Colorado River Basin"
     authors: Currier, W., A. Wood, N. Mizukami, B. Nijssen, J. Hamman, and E. Gutmann
     year: 2021
@@ -28,17 +23,24 @@ articles_in_review:
 
 #. - shown on the publications page
 articles_accepted:
-  - title: "A statistical downscaling framework for the production and testing of large ensembles of climate projections"
-    authors: Gutmann, E.D., J. Hamman, M.P. Clark, T. Eidhammer, A.W. Wood, and J.R. Arnold
-    year: 2021
+  - title: "Economic and biophysical limits to seaweed-based climate solutions"
+    authors: DeAngelo, J., B. Saenz , I. Arzeno-Soltero , C. Frieder , M. Long , J. Hamman , K. Davis , and S. Davis
+    year: 2022
     status: Accepted
-  - title: "New projections of 21st Century Climate and Hydrology for Alaska and Hawaiʻi"
-    authors: Mizukami, N., A. Newman, J. Littell, T. Giambelluca, A. Wood, E. Gutmann, B. Nijssen, J. Hamman, D. Gergel, M. Clark, and J. Arnold
-    year: 2021
-    status: Accepted
+    preprint: https://doi.org/10.31223/X5PG9V
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "En-GARD: A Statistical Downscaling Framework to Produce and Test Large Ensembles of Climate Projections"
+    authors: Gutmann, E.D., J. Hamman, M.P. Clark, T. Eidhammer, A.W. Wood, and J.R. Arnold
+    year: 2022
+    journal: Journal of Hydrometeorology
+    doi: https://doi.org/10.1175/JHM-D-21-0142.1
+  - title: "New projections of 21st Century Climate and Hydrology for Alaska and Hawaiʻi"
+    authors: Mizukami, N., A. Newman, J. Littell, T. Giambelluca, A. Wood, E. Gutmann, B. Nijssen, J. Hamman, D. Gergel, M. Clark, and J. Arnold
+    year: 2022
+    journal: Climate Services
+    doi: https://doi.org/10.1016/j.cliser.2022.100312
   - title: "California’s forest carbon offsets buffer pool is severely undercapitalized"
     authors: Badgley, G., F. Chay, O.S. Chegwidden, J. Hamman, J. Freeman, and D. Cullenward
     year: 2022
