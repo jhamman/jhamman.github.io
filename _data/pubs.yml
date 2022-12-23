@@ -23,14 +23,14 @@ articles_accepted:
     year: 2022
     status: Accepted
     preprint: https://doi.org/10.1002/essoar.10510588.1
-  - title: "Economic and biophysical limits to seaweed-based climate solutions"
-    authors: DeAngelo, J., B. Saenz , I. Arzeno-Soltero , C. Frieder , M. Long , J. Hamman , K. Davis , and S. Davis
-    year: 2022
-    status: Accepted
-    preprint: https://doi.org/10.31223/X5PG9V
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Economic and biophysical limits to seaweed-based climate solutions"
+    authors: DeAngelo, J., B. Saenz , I. Arzeno-Soltero , C. Frieder , M. Long , J. Hamman , K. Davis , and S. Davis    
+    year: 2022
+    journal: Nat. Plants
+    doi: https://doi.org/10.1038/s41477-022-01305-9
   - title: "En-GARD: A Statistical Downscaling Framework to Produce and Test Large Ensembles of Climate Projections"
     authors: Gutmann, E.D., J. Hamman, M.P. Clark, T. Eidhammer, A.W. Wood, and J.R. Arnold
     year: 2022
