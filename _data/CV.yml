@@ -7,21 +7,21 @@ research_interests:
 
 education:
   - school: University of Washington
-    location: Seattle, Washington
+    location: Seattle, WA
     program: Civil and Environmental Engineering
     degree: Ph.D.
     year: 2016
     emphasis: Hydrologic modeling, coupled land-atmosphere interactions
     thesis: Understanding the Arctic Hydroclimate Using the Regional Arctic System Model
   - school: University of Washington
-    location: Seattle, Washington
+    location: Seattle, WA
     program: Civil and Environmental Engineering
     degree: M.S.
     year: 2012
     emphasis: Climate Change Impacts, Hydrology, and Water Resources.
     thesis: Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in Puget Sound Floodplains and Estuaries
   - school: University of Arizona
-    location: Tucson, Arizona
+    location: Tucson, AZ
     program: Civil Engineering
     degree: B.S.
     year: 2007
@@ -30,39 +30,39 @@ education:
 positions_held:
   - position: Co-founder and CTO
     employer: Earthmover
-    location: Seattle, Washington
+    location: New York, NY (remote)
     period: 2022 - current
   - position: Co-founder and Director of Technology
     employer: CarbonPlan
-    location: Seattle, Washington
+    location: San Francisco, CA (remote)
     period: 2020 - 2022
   - position: Project Scientist
     employer: Climate and Global Dynamics Laboratory, National Center for Atmospheric Research
-    location: Boulder, Colorado
+    location: Boulder, CO (remote)
     period: 2018 - 2022
   - position: Post-Doctoral Fellow
     employer: Research Applications Laboratory, Hydrometeorological Applications Program, National Center for Atmospheric Research
-    location: Boulder, Colorado
+    location: Boulder, CO (remote)
     period: 2016 - 2018
   - position: Research Assistant
     employer: Department of Civil and Environmental Engineering, University of Washington
-    location: Seattle, Washington
+    location: Seattle, WA
     period: 2010 - 2016
   - position: Water Resource Specialist
     employer: Cardno TEC, Inc.
-    location: Seattle, Washington
+    location: Seattle, WA
     period: 2010 - 2014
   - position: Adjunct Professor
     employer: Department of Civil and Environmental Engineering, Seattle University
-    location: Seattle, Washington
+    location: Seattle, WA
     period: 2013
   - position: Civil Engineer Designer
     employer: Roth-Hill Engineering Partners
-    location: Bellevue, Washington
+    location: Bellevue, WA
     period: 2007 - 2009
   - position: Civil Engineering Intern
     employer: Dowl Engineering
-    location: Tucson, Arizona
+    location: Tucson, AZ
     period: 2007
 
 teaching:
@@ -70,12 +70,12 @@ teaching:
     term: Fall 2012, Fall 2013, Fall 2014
     position: Teaching Assistant
     university: University of Washington
-    location: Seattle, Washington
+    location: Seattle, WA
   - course: "CEEGR 371: Water Resource Engineering I"
     term: Spring 2013
     position: Adjunct Professor
     university: Seattle University
-    location: Seattle, Washington
+    location: Seattle, WA
 
 awards:
   - title: Best Student Presentation Award, University of Washington Water Symposium
