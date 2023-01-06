@@ -17,15 +17,15 @@ articles_in_review:
 #     preprint:
 
 #. - shown on the publications page
-articles_accepted:
-  - title: "Moving land models towards actionable science: A novel application of the Community Terrestrial Systems Model across Alaska and the Yukon River Basin"
-    authors: Cheng, Y. A. Newman, K.N. Musselman, S. Swenson, D. Lawrence, J. Hamman, K. Dagon, and D. Kennedy.
-    year: 2022
-    status: Accepted
-    preprint: https://doi.org/10.1002/essoar.10510588.1
+# articles_accepted:
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Moving land models towards actionable science: A novel application of the Community Terrestrial Systems Model across Alaska and the Yukon River Basin"
+    authors: Cheng, Y. A. Newman, K.N. Musselman, S. Swenson, D. Lawrence, J. Hamman, K. Dagon, and D. Kennedy.
+    year: 2022
+    journal: Water Resources Research
+    doi: 10.1029/2022WR032204
   - title: "Economic and biophysical limits to seaweed farming for climate change mitigation"
     authors: DeAngelo, J., B. Saenz , I. Arzeno-Soltero , C. Frieder , M. Long , J. Hamman , K. Davis , and S. Davis    
     year: 2022
