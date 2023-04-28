@@ -137,11 +137,12 @@ articles_published_editorial:
     authors: Hamman, J., N. Robinson, and R. Abernathey
     year: 2020
     journal: arXiv
-    doi: 10.48550/arXiv.1908.03356
+    link: http://dx.doi.org/10.48550/arXiv.1908.03356
   - title: "Building better flood risk maps: Lessons learned from the electric car"
     authors: Freitag, B., D. Carlton, and J. Hamman
     year: 2012
     journal: Natural Hazards Observer, XXXVII (1)
+    link: https://hazards.colorado.edu/uploads/observer/2012/sep12_observerweb.pdf
 
 datasets_published:
   - title: "Systematic over-crediting in California's forest carbon offsets program (Version 1.0) [Data set]"
