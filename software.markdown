@@ -6,7 +6,7 @@ header-img: "img/GNAM_2197.jpg"
 ---
 
 #### Pangeo
-[Pangeo](https://pangeo.io) is a community effort for big data in the geosciences. As part of this effort, we are bringing together the a collection of Python tools, including Xarray, Dask, and Jupyter to facilitate highly scalable data analytics on large geoscientific datasets. I am one of the cofounders of the Pangeo project and sit on the [Pangeo Steering Council](https://github.com/pangeo-data/governance).
+[Pangeo](https://pangeo.io) is a community effort for big data in the geosciences. As part of this effort, we are bringing together the a collection of Python tools, including Xarray, Dask, and Jupyter to facilitate highly scalable data analytics on large geoscientific datasets. I am one of the co-founders of the Pangeo project and sit on the [Pangeo Steering Council](https://github.com/pangeo-data/governance).
 
 #### Xarray
 
