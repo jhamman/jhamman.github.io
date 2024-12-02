@@ -1,10 +1,5 @@
 # articles_in_review - shown on the publications page
-articles_in_review:
-  - title: "Coupled high-resolution land-atmosphere modeling for hydroclimate and terrestrial hydrology in Alaska and the Yukon River basin (1990-2021)"
-    authors: Cheng, Y., A. Craig, K. Musselman, J. Hamman, A. Bennett, M. Seefeldt, and A. Newman
-    year: 2024
-    status: In revision
-    preprint: 10.22541/essoar.171052504.47039219/v1
+# articles_in_review:
 
 #   - title: "Open Source Frameworks for Earth Data Science are Blossoming"
 #     authors: Abernathey, R., J. Hamman, L. Heagy, F. Fernandes, and D. Hoese
@@ -13,7 +8,11 @@ articles_in_review:
 #     preprint:
 
 #. - shown on the publications page
-# articles_accepted:
+articles_accepted:
+  - title: "Coupled high-resolution land-atmosphere modeling for hydroclimate and terrestrial hydrology in Alaska and the Yukon River basin (1990-2021)"
+    authors: Cheng, Y., A. Craig, K. Musselman, J. Hamman, A. Bennett, M. Seefeldt, and A. Newman
+    year: 2024
+    preprint: 10.22541/essoar.171052504.47039219/v1
 
 # articles_published - shown on the publications page
 articles_published:

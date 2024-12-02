@@ -156,3 +156,10 @@ sponsored_projects:
     pop: 2020-12-01 – 2023-11-30
     role: PI
     url: https://earthdata.nasa.gov/esds/competitive-programs/access/pangeo-ml
+  - title: "Supporting the adoption of Xarray in the biomedical research community"
+    award_id: CZI EOSS (Funding Cycle 6)
+    amount: $370,875 (to NumFOCUS / Earthmover)
+    pop: 2024-06-01 – 2026-05-31
+    role: PI
+    url: https://chanzuckerberg.com/eoss/proposals/
+    
