@@ -8,14 +8,15 @@
 #     preprint:
 
 #. - shown on the publications page
-articles_accepted:
-  - title: "Coupled high-resolution land-atmosphere modeling for hydroclimate and terrestrial hydrology in Alaska and the Yukon River basin (1990-2021)"
-    authors: Cheng, Y., A. Craig, K. Musselman, J. Hamman, A. Bennett, M. Seefeldt, and A. Newman
-    year: 2024
-    preprint: 10.22541/essoar.171052504.47039219/v1
+# articles_accepted:
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Coupled high-resolution land-atmosphere modeling for hydroclimate and terrestrial hydrology in Alaska and the Yukon River basin (1990-2021)"
+    authors: Cheng, Y., A. Craig, K. Musselman, J. Hamman, A. Bennett, M. Seefeldt, and A. Newman
+    year: 2024
+    journal: "Journal of Geophysical Research: Atmospheres"
+    preprint: 10.1029/2024JD041185
   - title: "A Collaborative, In Situ Mountain Hydrology NASA Test Bed. Prepared for the NASA Terrestrial Hydrology Program."
     authors: Vano, J., T. Petach, J. Deems, M. Raleigh, J. Arnott, E. Osenga, J. Hamman 
     year: 2024
